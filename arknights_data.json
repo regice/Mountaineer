@@ -1,0 +1,629 @@
+{
+  "operators": {
+    "texas_the_omertosa": {
+      "name": "Texas the Omertosa",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "penance": {
+      "name": "Penance",
+      "rarity": 6,
+      "icon": null,
+      "class": "Defender",
+      "branch": "Executor",
+      "skins": []
+    },
+    "vigil": {
+      "name": "Vigil",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "lunacub": {
+      "name": "Lunacub",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "quartz": {
+      "name": "Quartz",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "qanipalaat": {
+      "name": "Qanipalaat",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "weedy": {
+      "name": "Weedy",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "elysium": {
+      "name": "Elysium",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "tsukinogi": {
+      "name": "Tsukinogi",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "asbestos": {
+      "name": "Asbestos",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "zima": {
+      "name": "Zima",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "scavenger": {
+      "name": "Scavenger",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "courier": {
+      "name": "Courier",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "chiave": {
+      "name": "Chiave",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "texas": {
+      "name": "Texas",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": [
+        {
+          "willpower": {
+            "name": "Willpower",
+            "img_path": ""
+          }
+        }
+      ]
+    },
+    "flametail": {
+      "name": "Flametail",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "saga": {
+      "name": "Saga",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "siege": {
+      "name": "Siege",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "hoshiguma": {
+      "name": "Hoshiguma",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "schwarz": {
+      "name": "Schwarz",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "passenger": {
+      "name": "Passenger",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": [
+        {
+          "dream_in_a_moment": {
+            "name": "Dream in a Moment",
+            "img_path": ""
+          }
+        }
+      ]
+    },
+    "rosmontis": {
+      "name": "Rosmontis",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": [
+        {
+          "become_anew": {
+            "name": "Become Anew",
+            "img_path": ""
+          }
+        }
+      ]
+    },
+    "nearl_the_radiant_knight": {
+      "name": "Nearl the Radiant Knight",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": [
+        {
+          "relight": {
+            "name": "Relight",
+            "img_path": ""
+          }
+        }
+      ]
+    },
+    "honeyberry": {
+      "name": "Honeyberry",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": [
+        {
+          "wilderness_behind": {
+            "name": "Wilderness Behind",
+            "img_path": ""
+          }
+        }
+      ]
+    },
+    "sora": {
+      "name": "Sora",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": [
+        {
+          "melodiosa": {
+            "name": "Melodiosa",
+            "img_path": ""
+          }
+        }
+      ]
+    },
+    "pallas": {
+      "name": "Pallas",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": [
+        {
+          "heritage": {
+            "name": "Heritage",
+            "img_path": ""
+          }
+        }
+      ]
+    },
+    "rosa": {
+      "name": "Rosa",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": [
+        {
+          "masterpiece": {
+            "name": "Masterpiece",
+            "img_path": ""
+          }
+        }
+      ]
+    },
+    "andreana": {
+      "name": "Andreana",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": [
+        {
+          "silent_arrow": {
+            "name": "Silent Arrow",
+            "img_path": ""
+          }
+        }
+      ]
+    },
+    "dobermann": {
+      "name": "Dobermann",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": [
+        {
+          "lieutenant": {
+            "name": "Lieutenant",
+            "img_path": ""
+          }
+        }
+      ]
+    },
+    "mostima": {
+      "name": "Mostima",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": [
+        {
+          "spellbreaker": {
+            "name": "Spellbreaker",
+            "img_path": ""
+          }
+        }
+      ]
+    },
+    "suzuran": {
+      "name": "Suzuran",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": [
+        {
+          "lostlands_flowering": {
+            "name": "Lostlands Flowering",
+            "img_path": ""
+          }
+        }
+      ]
+    },
+    "astesia": {
+      "name": "Astesia",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": [
+        {
+          "starseeker": {
+            "name": "Starseeker",
+            "img_path": ""
+          }
+        }
+      ]
+    },
+    "meteorite": {
+      "name": "Meteorite",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "mountain": {
+      "name": "Mountain",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "spot": {
+      "name": "Spot",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    },
+    "wild_mane": {
+      "name": "Wild Mane",
+      "rarity": 6,
+      "icon": null,
+      "class": "Specialist",
+      "branch": "Executor",
+      "skins": []
+    }
+  },
+  "items": {
+    "damaged_device": {
+      "name": "Damaged Device",
+      "img_path": null
+    },
+    "diketon": {
+      "name": "Diketon",
+      "img_path": null
+    },
+    "ester": {
+      "name": "Ester",
+      "img_path": null
+    },
+    "orirock": {
+      "name": "",
+      "img_path": null
+    },
+    "oriron_shard": {
+      "name": "",
+      "img_path": null
+    },
+    "sugar_substitute": {
+      "name": "",
+      "img_path": null
+    },
+    "device": {
+      "name": "",
+      "img_path": null
+    },
+    "orirock_cube": {
+      "name": "",
+      "img_path": null
+    },
+    "oriron": {
+      "name": "",
+      "img_path": null
+    },
+    "polyester": {
+      "name": "",
+      "img_path": null
+    },
+    "polyketon": {
+      "name": "",
+      "img_path": null
+    },
+    "sugar": {
+      "name": "",
+      "img_path": null
+    },
+    "aketon": {
+      "name": "",
+      "img_path": null
+    },
+    "coagulating_gel": {
+      "name": "",
+      "img_path": null
+    },
+    "compound_cutting_fluid": {
+      "name": "",
+      "img_path": null
+    },
+    "crystalline_component": {
+      "name": "",
+      "img_path": null
+    },
+    "grindstone": {
+      "name": "",
+      "img_path": null
+    },
+    "incandescent_alloy": {
+      "name": "",
+      "img_path": null
+    },
+    "integrated_device": {
+      "name": "",
+      "img_path": null
+    },
+    "loxic_kohl": {
+      "name": "",
+      "img_path": null
+    },
+    "manganese_ore": {
+      "name": "",
+      "img_path": null
+    },
+    "orirock_cluster": {
+      "name": "",
+      "img_path": null
+    },
+    "oriron_cluster": {
+      "name": "",
+      "img_path": null
+    },
+    "polyester_pack": {
+      "name": "",
+      "img_path": null
+    },
+    "rma70_12": {
+      "name": "",
+      "img_path": null
+    },
+    "semi_synthetic_solvent": {
+      "name": "",
+      "img_path": null
+    },
+    "sugar_pack": {
+      "name": "",
+      "img_path": null
+    },
+    "transmuted_salt": {
+      "name": "",
+      "img_path": null
+    },
+    "agglomerated_salt": {
+      "name": "",
+      "img_path": null
+    },
+    "crystalline_circuit": {
+      "name": "",
+      "img_path": null
+    },
+    "cutting_fluid_solution": {
+      "name": "",
+      "img_path": null
+    },
+    "grindstone_pentahydrate": {
+      "name": "",
+      "img_path": null
+    },
+    "incandescent_alloy_block": {
+      "name": "",
+      "img_path": null
+    },
+    "keton_colloid": {
+      "name": "",
+      "img_path": null
+    },
+    "manganese_trihydrate": {
+      "name": "",
+      "img_path": null
+    },
+    "optimized_device": {
+      "name": "",
+      "img_path": null
+    },
+    "orirock_concentration": {
+      "name": "",
+      "img_path": null
+    },
+    "oriron_block": {
+      "name": "",
+      "img_path": null
+    },
+    "polyester_lump": {
+      "name": "",
+      "img_path": null
+    },
+    "polymerized_gel": {
+      "name": "",
+      "img_path": null
+    },
+    "refined_solvent": {
+      "name": "",
+      "img_path": null
+    },
+    "rma70_24": {
+      "name": "",
+      "img_path": null
+    },
+    "sugar_lump": {
+      "name": "",
+      "img_path": null
+    },
+    "white_horse_kohl": {
+      "name": "",
+      "img_path": null
+    },
+    "bipolar_nanoflake": {
+      "name": "",
+      "img_path": null
+    },
+    "crystalline_electronic_unit": {
+      "name": "",
+      "img_path": null
+    },
+    "d32_steel": {
+      "name": "",
+      "img_path": null
+    },
+    "polymerization_preparation": {
+      "name": "",
+      "img_path": null
+    },
+    "sintered_condescant": {
+      "name": "",
+      "img_path": null
+    },
+    "headhunting_permit": {
+      "name": "",
+      "img_path": null
+    },
+    "module_data_block": {
+      "name": "",
+      "img_path": null
+    },
+    "lmd": {
+      "name": "",
+      "img_path": null
+    },
+    "strategic_battle_record": {
+      "name": "",
+      "img_path": null
+    },
+    "tactical_battle_record": {
+      "name": "",
+      "img_path": null
+    },
+    "frontline_battle_record": {
+      "name": "",
+      "img_path": null
+    },
+    "skill_summary_3": {
+      "name": "",
+      "img_path": null
+    },
+    "skill_summary_2": {
+      "name": "",
+      "img_path": null
+    },
+    "vanguard_chip": {
+      "name": "",
+      "img_path": null
+    },
+    "furniture_part": {
+      "name": "",
+      "img_path": null
+    },
+    "data_supplement_instrument": {
+      "name": "",
+      "img_path": null
+    },
+    "data_supplement_stick": {
+      "name": "",
+      "img_path": null
+    }
+  }
+}

@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Mountaineer</title>
+
+    <!--   Bootstrap Core CSS   -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='vendor/bootstrap/css/bootstrap.min.css') }}">
+
+    <!--   Custom Styling  -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  </head>
+  <body>
+    <!--  Navigation  -->
+    <nav class="navbar" id="mainNav">
+      <div class="container">
+        <h1>Mountaineer</h1>
+      </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container border">
+      {% for event in events %}
+      <!--   Event   -->
+      <div class="row event-container">
+        <!--    Event Info    -->
+        <div class="col-lg-3 event-info">
+          <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="">
+          <h1>{{ event["event_name"] }}</h1>
+        </div>
+        <div class="col-lg-9">
+          <!--    New Operators    -->
+          <div class="row border event-section rounded">
+            <div class="col-lg-6">
+              <h1 class="event-subsection-heading">New Operators</h1>
+              <span class="new-operator-listing">
+                {% for new_op in event["new_operators"] %}
+                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+                {% endfor %}
+              </span>
+            </div>
+            <!--      Recruitment Update      -->
+            <div class="col-lg-6">
+              <span class="new-operator-listing">
+                <h1 class="event-subsection-heading">Recruitment Update</h1>
+                {% for op in event["headhunting"]["recruitment"] %}
+                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+                {% endfor %}
+              </span>
+            </div>
+          </div>
+
+          <!--    Event Rewards    -->
+          <div class="row border event-section rounded">
+            <h1 class="event-section-heading">Event Rewards</h1>
+            <!--      T3 Drops      -->
+            <span class="rewards-listing">
+              <h2 class="event-subsection-heading">T3 Drops</h2>
+              {% for mat in event["rewards"]["t3_drops"] %}
+                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% endfor %}
+            </span>
+            <!--      Store Totals      -->
+            <span class="rewards-listing">
+              <h2 class="event-subsection-heading">Store Totals</h2>
+              {% for item in event["rewards"]["store_totals"] %}
+                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% endfor %}
+            </span>
+            <!--      Task Rewards      -->
+            <span class="rewards-listing">
+              <h2 class="event-subsection-heading">Task Rewards</h2>
+              {% for item in event["rewards"]["task_rewards"] %}
+                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% endfor %}
+            </span>
+          </div>
+
+          <!--    Misc. Additions    -->
+          <div class="row border event-section rounded">
+            <h1 class="event-section-heading">Misc. Additions</h1>
+            <!--      Operator Modules      -->
+            <h2 class="event-subsection-heading">Operator Modules</h2>
+            <!--      First Modules      -->
+            <div class="col-lg-4 misc-listing">
+              <h3>New Modules</h3>
+              {% for item in event["operator_modules"]["first"] %}
+                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% endfor %}
+            </div>
+            <!--      Second Modules      -->
+            <div class="col-lg-4 misc-listing">
+              <h3>Second Modules</h3>
+              {% for item in event["operator_modules"]["second"] %}
+                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% endfor %}
+            </div>
+            <!--      New Operators' Modules      -->
+            <div class="col-lg-4 misc-listing">
+              <h3>New Operators</h3>
+              {% for item in event["operator_modules"]["new_operators"] %}
+                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% endfor %}
+            </div>
+            <!--      Operator Skins      -->
+            <h2 class="event-subsection-heading">Operator Skins</h2>
+            <!--      New Skins      -->
+            <div class="col-lg-4 misc-listing">
+              <h3>New</h3>
+              {% for key, value in event["operator_skins"]["new"].items() %}
+                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% endfor %}
+            </div>
+            <!--      Skin Reruns      -->
+            <div class="col-lg-4 misc-listing">
+              <h3>Rerun</h3>
+              {% for key, value in event["operator_skins"]["rerun"].items() %}
+                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% endfor %}
+            </div>
+            <!--      Skins Added to Fashion Review      -->
+            <div class="col-lg-4 misc-listing">
+              <h3>Added to Fashion Review</h3>
+              {% for key, value in event["operator_skins"]["fashion_review"].items() %}
+                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% endfor %}
+            </div>
+            <!--      Operator Records and Paradox Simulations      -->
+            <span class="misc-listing">
+              <h2 class="event-subsection-heading">Operator Records & Paradox Simulations</h2>
+              {% for op in event["operator_records_paradox_simulations"] %}
+                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% endfor %}
+            </span>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+  </body>
+</html>

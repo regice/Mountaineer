@@ -1,0 +1,37 @@
+body {
+    background-color: #74706D;
+    color: #F3F2ED;
+    border-color: #A3BDD4;
+}
+
+h1 {
+    color: #A3BDD4;
+}
+
+#mainNav {
+    color: #A3BDD4;
+}
+
+.event-container {
+    padding: 2%;
+}
+
+.event-info {
+    text-align: center;
+    margin: auto;
+}
+
+.event-section {
+    padding: 1% 2%;
+    margin: 1% 2%;
+    background-color: #938383;
+}
+
+.event-section-heading {
+    text-align: center;
+}
+
+.listing-img {
+    width: 50px;
+    margin: 1px;
+}
