@@ -1,645 +1,743 @@
 {
     "items": {
-        "agglomerated_salt": {
-            "img_path": null,
-            "name": ""
-        },
         "aketon": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_KETONE3",
+            "name": "Aketon",
+            "tier": 3
         },
         "bipolar_nanoflake": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_BN",
+            "name": "Bipolar Nanoflake",
+            "tier": 5
+        },
+        "caster_chip": {
+            "img_path": "MTL_ASC_CST1",
+            "name": "Caster Chip",
+            "tier": 3
+        },
+        "chip_catalyst": {
+            "img_path": "MTL_ASC_DI",
+            "name": "Chip Catalyst",
+            "tier": 4
         },
         "coagulating_gel": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_PGEL3",
+            "name": "Coagulating Gel",
+            "tier": 3
         },
         "compound_cutting_fluid": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_CCF",
+            "name": "Compound Cutting Fluid",
+            "tier": 3
         },
         "crystalline_circuit": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_OC4",
+            "name": "Crystalline Circuit",
+            "tier": 4
         },
         "crystalline_component": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_OC3",
+            "name": "Crystalline Component",
+            "tier": 3
         },
         "crystalline_electronic_unit": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_OEU",
+            "name": "Crystalline Electronic Unit",
+            "tier": 5
         },
         "cutting_fluid_solution": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_PLCF",
+            "name": "Cutting Fluid Solution",
+            "tier": 4
         },
         "d32_steel": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_DS",
+            "name": "D32 Steel",
+            "tier": 5
         },
         "damaged_device": {
-            "img_path": null,
-            "name": "Damaged Device"
+            "img_path": "MTL_SL_BOSS1",
+            "name": "Damaged Device",
+            "tier": 1
         },
         "data_supplement_instrument": {
-            "img_path": null,
-            "name": ""
+            "img_path": "mod_update_token_2",
+            "name": "Data Supplement Instrument",
+            "tier": 5
         },
         "data_supplement_stick": {
-            "img_path": null,
-            "name": ""
+            "img_path": "mod_update_token_1",
+            "name": "Data Supplement Stick",
+            "tier": 4
+        },
+        "defender_chip": {
+            "img_path": "MTL_ASC_TNK1",
+            "name": "Defender Chip",
+            "tier": 3
         },
         "device": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_BOSS2",
+            "name": "Device",
+            "tier": 2
         },
         "diketon": {
-            "img_path": null,
-            "name": "Diketon"
+            "img_path": "MTL_SL_KETONE2",
+            "name": "Diketon",
+            "tier": 1
         },
         "ester": {
-            "img_path": null,
-            "name": "Ester"
+            "img_path": "MTL_SL_RUSH1",
+            "name": "Ester",
+            "tier": 1
         },
         "frontline_battle_record": {
-            "img_path": null,
-            "name": ""
+            "img_path": "sprite_exp_card_t2",
+            "name": "Frontline Battle Record",
+            "tier": 3
         },
         "furniture_part": {
-            "img_path": null,
-            "name": ""
+            "img_path": "COIN_FURN",
+            "name": "Furniture Part",
+            "tier": 3
         },
         "grindstone": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_PG1",
+            "name": "Grindstone",
+            "tier": 3
         },
         "grindstone_pentahydrate": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_PG2",
+            "name": "Grindstone Pentahydrate",
+            "tier": 4
+        },
+        "guard_chip": {
+            "img_path": "MTL_ASC_GRD1",
+            "name": "Guard Chip",
+            "tier": 3
         },
         "headhunting_permit": {
-            "img_path": null,
-            "name": ""
+            "img_path": "TKT_GACHA",
+            "name": "Headhunting Permit",
+            "tier": 5
         },
         "incandescent_alloy": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_IAM3",
+            "name": "Incandescent Alloy",
+            "tier": 3
         },
         "incandescent_alloy_block": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_IAM4",
+            "name": "Incandescent Alloy Block",
+            "tier": 4
         },
         "integrated_device": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_BOSS3",
+            "name": "Integrated Device",
+            "tier": 3
         },
         "keton_colloid": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_KETONE4",
+            "name": "Keton Colloid",
+            "tier": 4
         },
         "lmd": {
-            "img_path": null,
-            "name": ""
+            "img_path": "GOLD",
+            "name": "LMD",
+            "tier": 4
         },
         "loxic_kohl": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_ALCOHOL1",
+            "name": "Loxic Kohl",
+            "tier": 3
         },
         "manganese_ore": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_MANGANESE1",
+            "name": "Manganese Ore",
+            "tier": 3
         },
         "manganese_trihydrate": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_MANGANESE2",
+            "name": "Manganese Trihydrate",
+            "tier": 4
+        },
+        "medic_chip": {
+            "img_path": "MTL_ASC_MED1",
+            "name": "Medic Chip",
+            "tier": 3
         },
         "module_data_block": {
-            "img_path": null,
-            "name": ""
+            "img_path": "mod_unlock_token",
+            "name": "Module Data Block",
+            "tier": 5
+        },
+        "nucleic_crystal_sinter": {
+            "img_path": "MTL_SL_SHJ",
+            "name": "Nucleic Crystal Sinter",
+            "tier": 5
         },
         "optimized_device": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_BOSS4",
+            "name": "Optimized Device",
+            "tier": 4
         },
         "orirock": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_G1",
+            "name": "Orirock",
+            "tier": 1
         },
         "orirock_cluster": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_G3",
+            "name": "Orirock Cluster",
+            "tier": 3
         },
         "orirock_concentration": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_G4",
+            "name": "Orirock Concentration",
+            "tier": 4
         },
         "orirock_cube": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_G2",
+            "name": "Orirock Cube",
+            "tier": 2
         },
         "oriron": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_IRON2",
+            "name": "Oriron",
+            "tier": 2
         },
         "oriron_block": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_IRON4",
+            "name": "Oriron Block",
+            "tier": 4
         },
         "oriron_cluster": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_IRON3",
+            "name": "Oriron Cluster",
+            "tier": 3
         },
         "oriron_shard": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_IRON1",
+            "name": "Oriron Shard",
+            "tier": 1
         },
         "polyester": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_RUSH2",
+            "name": "Polyester",
+            "tier": 2
         },
         "polyester_lump": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_RUSH4",
+            "name": "Polyester Lump",
+            "tier": 4
         },
         "polyester_pack": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_RUSH3",
+            "name": "Polyester Pack",
+            "tier": 3
         },
         "polyketon": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_KETONE2",
+            "name": "Polyketon",
+            "tier": 2
         },
         "polymerization_preparation": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_PP",
+            "name": "Polymerization Preparation",
+            "tier": 5
         },
         "polymerized_gel": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_PGEL4",
+            "name": "Polymerized Gel",
+            "tier": 4
         },
         "refined_solvent": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_RS",
+            "name": "Refined Solvent",
+            "tier": 4
         },
         "rma70_12": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_RMA7012",
+            "name": "RMA70-12",
+            "tier": 3
         },
         "rma70_24": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_RMA7024",
+            "name": "RMA70-24",
+            "tier": 4
         },
-        "semi_synthetic_solvent": {
-            "img_path": null,
-            "name": ""
+        "semi-synthetic_solvent": {
+            "img_path": "MTL_SL_SS",
+            "name": "Semi-Synthetic Solvent",
+            "tier": 3
         },
         "sintered_condescant": {
-            "img_path": null,
-            "name": ""
+            "img_path": "",
+            "name": "Sintered Condescant",
+            "tier": 0
         },
-        "skill_summary_2": {
-            "img_path": null,
-            "name": ""
+        "skill_summary_-_2": {
+            "img_path": "MTL_SKILL2",
+            "name": "Skill Summary - 2",
+            "tier": 3
         },
-        "skill_summary_3": {
-            "img_path": null,
-            "name": ""
+        "skill_summary_-_3": {
+            "img_path": "MTL_SKILL3",
+            "name": "Skill Summary - 3",
+            "tier": 4
+        },
+        "sniper_chip": {
+            "img_path": "MTL_ASC_SNP1",
+            "name": "Sniper Chip",
+            "tier": 3
+        },
+        "specialist_chip": {
+            "img_path": "MTL_ASC_SPC1",
+            "name": "Specialist Chip",
+            "tier": 3
         },
         "strategic_battle_record": {
-            "img_path": null,
-            "name": ""
+            "img_path": "sprite_exp_card_t3",
+            "name": "Strategic Battle Record",
+            "tier": 4
         },
         "sugar": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_STRG2",
+            "name": "Sugar",
+            "tier": 2
         },
         "sugar_lump": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_STRG4",
+            "name": "Sugar Lump",
+            "tier": 4
         },
         "sugar_pack": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_STRG3",
+            "name": "Sugar Pack",
+            "tier": 3
         },
         "sugar_substitute": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_STRG1",
+            "name": "Sugar Substitute",
+            "tier": 1
+        },
+        "supporter_chip": {
+            "img_path": "MTL_ASC_SUP1",
+            "name": "Supporter Chip",
+            "tier": 3
         },
         "tactical_battle_record": {
-            "img_path": null,
-            "name": ""
+            "img_path": "sprite_exp_card_t4",
+            "name": "Tactical Battle Record",
+            "tier": 5
         },
         "transmuted_salt": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_ZY",
+            "name": "Transmuted Salt",
+            "tier": 3
+        },
+        "transmuted_salt_agglomerate": {
+            "img_path": "MTL_SL_ZYK",
+            "name": "Transmuted Salt Agglomerate",
+            "tier": 4
         },
         "vanguard_chip": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_ASC_PIO1",
+            "name": "Vanguard Chip",
+            "tier": 3
         },
         "white_horse_kohl": {
-            "img_path": null,
-            "name": ""
+            "img_path": "MTL_SL_ALCOHOL2",
+            "name": "White Horse Kohl",
+            "tier": 4
         }
     },
     "operators": {
-        "'justice_knight'": {
-            "branch": "",
-            "class": "Sniper",
-            "icon": "",
-            "name": "'Justice Knight'",
-            "rarity": 1,
-            "skins": []
-        },
         "12f": {
-            "branch": "",
+            "branch": "Splash-Caster",
             "class": "Caster",
-            "icon": "",
+            "icon": "avatars/char_009_12fce.png",
             "name": "12F",
             "rarity": 2,
             "skins": []
         },
         "aak": {
-            "branch": "",
+            "branch": "Sacrificial-Specialist",
             "class": "Specialist",
-            "icon": "",
+            "icon": "avatars/char_225_haak.png",
             "name": "Aak",
             "rarity": 6,
             "skins": []
         },
         "absinthe": {
-            "branch": "",
+            "branch": "Core-Caster",
             "class": "Caster",
-            "icon": "",
+            "icon": "avatars/char_405_absin.png",
             "name": "Absinthe",
             "rarity": 5,
             "skins": []
         },
         "aciddrop": {
-            "branch": "",
+            "branch": "Heavyshooter",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_366_acdrop.png",
             "name": "Aciddrop",
             "rarity": 4,
             "skins": []
         },
         "adnachiel": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_211_adnach.png",
             "name": "Adnachiel",
             "rarity": 3,
             "skins": []
         },
         "akafuyu": {
-            "branch": "",
+            "branch": "Musha",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_475_akafyu.png",
             "name": "Akafuyu",
             "rarity": 5,
             "skins": []
         },
         "ambriel": {
-            "branch": "",
+            "branch": "Deadeye",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_302_glaze.png",
             "name": "Ambriel",
             "rarity": 4,
             "skins": []
         },
         "amiya": {
-            "branch": "",
+            "branch": "Core-Caster",
             "class": "Caster",
-            "icon": "",
+            "icon": "avatars/char_002_amiya.png",
             "name": "Amiya",
             "rarity": 5,
             "skins": []
         },
-        "amiya_(guard)": {
-            "branch": "",
+        "amiya_guard": {
+            "branch": "Arts-Fighter",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_1001_amiya2.png",
             "name": "Amiya (Guard)",
             "rarity": 5,
             "skins": []
         },
         "andreana": {
-            "branch": "",
+            "branch": "Deadeye",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_218_cuttle.png",
             "name": "Andreana",
             "rarity": 5,
             "skins": []
         },
         "angelina": {
-            "branch": "",
+            "branch": "Decel-Binder",
             "class": "Supporter",
-            "icon": "",
+            "icon": "avatars/char_291_aglina.png",
             "name": "Angelina",
             "rarity": 6,
             "skins": []
         },
         "ansel": {
-            "branch": "",
+            "branch": "Medic",
             "class": "Medic",
-            "icon": "",
+            "icon": "avatars/char_212_ansel.png",
             "name": "Ansel",
             "rarity": 3,
             "skins": []
         },
         "aosta": {
-            "branch": "",
+            "branch": "Spreadshooter",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_346_aosta.png",
             "name": "Aosta",
             "rarity": 5,
             "skins": []
         },
         "april": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_365_aprl.png",
             "name": "April",
             "rarity": 5,
             "skins": []
         },
         "archetto": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_332_archet.png",
             "name": "Archetto",
             "rarity": 6,
             "skins": []
         },
         "arene": {
-            "branch": "",
+            "branch": "Lord",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_271_spikes.png",
             "name": "Arene",
             "rarity": 4,
             "skins": []
         },
         "asbestos": {
-            "branch": "",
+            "branch": "Arts-Protector",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_378_asbest.png",
             "name": "Asbestos",
             "rarity": 5,
             "skins": []
         },
         "ash": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_456_ash.png",
             "name": "Ash",
             "rarity": 6,
             "skins": []
         },
         "ashlock": {
-            "branch": "",
+            "branch": "Fortress",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_431_ashlok.png",
             "name": "Ashlock",
             "rarity": 5,
             "skins": []
         },
         "astesia": {
-            "branch": "",
+            "branch": "Arts-Fighter",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_274_astesi.png",
             "name": "Astesia",
             "rarity": 5,
             "skins": []
         },
         "astgenne": {
-            "branch": "",
+            "branch": "Chain-Caster",
             "class": "Caster",
-            "icon": "",
+            "icon": "avatars/char_135_halo.png",
             "name": "Astgenne",
             "rarity": 5,
             "skins": []
         },
         "aurora": {
-            "branch": "",
+            "branch": "Duelist",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_422_aurora.png",
             "name": "Aurora",
             "rarity": 5,
             "skins": []
         },
         "ayerscarpe": {
-            "branch": "",
+            "branch": "Lord",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_294_ayer.png",
             "name": "Ayerscarpe",
             "rarity": 5,
             "skins": []
         },
         "bagpipe": {
-            "branch": "",
+            "branch": "Charger",
             "class": "Vanguard",
-            "icon": "",
+            "icon": "avatars/char_222_bpipe.png",
             "name": "Bagpipe",
             "rarity": 6,
             "skins": []
         },
         "beagle": {
-            "branch": "",
+            "branch": "Protector",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_122_beagle.png",
             "name": "Beagle",
             "rarity": 3,
             "skins": []
         },
         "beanstalk": {
-            "branch": "",
+            "branch": "Tactician",
             "class": "Vanguard",
-            "icon": "",
+            "icon": "avatars/char_452_bstalk.png",
             "name": "Beanstalk",
             "rarity": 4,
             "skins": []
         },
         "beehunter": {
-            "branch": "",
+            "branch": "Fighter",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_137_brownb.png",
             "name": "Beehunter",
             "rarity": 4,
             "skins": []
         },
         "beeswax": {
-            "branch": "",
+            "branch": "Phalanx-Caster",
             "class": "Caster",
-            "icon": "",
+            "icon": "avatars/char_344_beewax.png",
             "name": "Beeswax",
             "rarity": 5,
             "skins": []
         },
         "bena": {
-            "branch": "",
+            "branch": "Dollkeeper",
             "class": "Specialist",
-            "icon": "",
+            "icon": "avatars/char_369_bena.png",
             "name": "Bena",
             "rarity": 5,
             "skins": []
         },
         "bibeak": {
-            "branch": "",
+            "branch": "Swordmaster",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_252_bibeak.png",
             "name": "Bibeak",
             "rarity": 5,
             "skins": []
         },
         "bison": {
-            "branch": "",
+            "branch": "Protector",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_325_bison.png",
             "name": "Bison",
             "rarity": 5,
             "skins": []
         },
         "blacknight": {
-            "branch": "",
+            "branch": "Tactician",
             "class": "Vanguard",
-            "icon": "",
+            "icon": "avatars/char_476_blkngt.png",
             "name": "Blacknight",
             "rarity": 5,
             "skins": []
         },
         "blaze": {
-            "branch": "",
+            "branch": "Centurion",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_017_huang.png",
             "name": "Blaze",
             "rarity": 6,
             "skins": []
         },
         "blemishine": {
-            "branch": "",
+            "branch": "Guardian",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_423_blemsh.png",
             "name": "Blemishine",
             "rarity": 6,
             "skins": []
         },
         "blitz": {
-            "branch": "",
+            "branch": "Protector",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_457_blitz.png",
             "name": "Blitz",
             "rarity": 5,
             "skins": []
         },
         "blue_poison": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_129_bluep.png",
             "name": "Blue Poison",
             "rarity": 5,
             "skins": []
         },
         "breeze": {
-            "branch": "",
+            "branch": "Multi-target-Medic",
             "class": "Medic",
-            "icon": "",
+            "icon": "avatars/char_275_breeze.png",
             "name": "Breeze",
             "rarity": 5,
             "skins": []
         },
         "broca": {
-            "branch": "",
+            "branch": "Centurion",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_356_broca.png",
             "name": "Broca",
             "rarity": 5,
             "skins": []
         },
         "bubble": {
-            "branch": "",
+            "branch": "Protector",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_381_bubble.png",
             "name": "Bubble",
             "rarity": 4,
             "skins": []
         },
         "cantabile": {
-            "branch": "",
+            "branch": "Agent",
             "class": "Vanguard",
-            "icon": "",
+            "icon": "avatars/char_497_ctable.png",
             "name": "Cantabile",
             "rarity": 5,
             "skins": []
         },
         "cardigan": {
-            "branch": "",
+            "branch": "Protector",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_209_ardign.png",
             "name": "Cardigan",
             "rarity": 3,
             "skins": []
         },
         "carnelian": {
-            "branch": "",
+            "branch": "Phalanx-Caster",
             "class": "Caster",
-            "icon": "",
+            "icon": "avatars/char_426_billro.png",
             "name": "Carnelian",
             "rarity": 6,
             "skins": []
         },
         "castle-3": {
-            "branch": "",
+            "branch": "Dreadnought",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_286_cast3.png",
             "name": "Castle-3",
             "rarity": 1,
             "skins": []
         },
         "catapult": {
-            "branch": "",
+            "branch": "Artilleryman",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_282_catap.png",
             "name": "Catapult",
             "rarity": 3,
             "skins": []
         },
         "cement": {
-            "branch": "",
+            "branch": "Duelist",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_464_cement.png",
             "name": "Cement",
             "rarity": 5,
             "skins": []
         },
         "ceobe": {
-            "branch": "",
+            "branch": "Core-Caster",
             "class": "Caster",
-            "icon": "",
+            "icon": "avatars/char_",
             "name": "Ceobe",
             "rarity": 6,
             "skins": []
         },
         "ceylon": {
-            "branch": "",
+            "branch": "Therapist",
             "class": "Medic",
             "icon": "",
             "name": "Ceylon",
             "rarity": 5,
             "skins": []
         },
-        "ch'en": {
-            "branch": "",
+        "chen": {
+            "branch": "Swordmaster",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_010_chen.png",
             "name": "Ch'en",
             "rarity": 6,
             "skins": []
         },
-        "ch'en_the_holungday": {
-            "branch": "",
+        "chen_the_holungday": {
+            "branch": "Spreadshooter",
             "class": "Sniper",
             "icon": "",
             "name": "Ch'en the Holungday",
@@ -647,7 +745,7 @@
             "skins": []
         },
         "chestnut": {
-            "branch": "",
+            "branch": "Wandering-Medic",
             "class": "Medic",
             "icon": "",
             "name": "Chestnut",
@@ -655,7 +753,7 @@
             "skins": []
         },
         "chiave": {
-            "branch": "",
+            "branch": "Pioneer",
             "class": "Vanguard",
             "icon": "",
             "name": "Chiave",
@@ -663,15 +761,15 @@
             "skins": []
         },
         "chongyue": {
-            "branch": "",
+            "branch": "Fighter",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_2024_chyue.png",
             "name": "Chongyue",
             "rarity": 6,
             "skins": []
         },
         "click": {
-            "branch": "",
+            "branch": "Mech-Accord",
             "class": "Caster",
             "icon": "",
             "name": "Click",
@@ -679,7 +777,7 @@
             "skins": []
         },
         "cliffheart": {
-            "branch": "",
+            "branch": "Hookmaster",
             "class": "Specialist",
             "icon": "",
             "name": "Cliffheart",
@@ -687,7 +785,7 @@
             "skins": []
         },
         "conviction": {
-            "branch": "",
+            "branch": "Dreadnought",
             "class": "Guard",
             "icon": "",
             "name": "Conviction",
@@ -695,7 +793,7 @@
             "skins": []
         },
         "corroserum": {
-            "branch": "",
+            "branch": "Blast-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Corroserum",
@@ -703,7 +801,7 @@
             "skins": []
         },
         "courier": {
-            "branch": "",
+            "branch": "Pioneer",
             "class": "Vanguard",
             "icon": "",
             "name": "Courier",
@@ -711,7 +809,7 @@
             "skins": []
         },
         "croissant": {
-            "branch": "",
+            "branch": "Protector",
             "class": "Defender",
             "icon": "",
             "name": "Croissant",
@@ -719,7 +817,7 @@
             "skins": []
         },
         "cuora": {
-            "branch": "",
+            "branch": "Protector",
             "class": "Defender",
             "icon": "",
             "name": "Cuora",
@@ -727,7 +825,7 @@
             "skins": []
         },
         "cutter": {
-            "branch": "",
+            "branch": "Swordmaster",
             "class": "Guard",
             "icon": "",
             "name": "Cutter",
@@ -735,7 +833,7 @@
             "skins": []
         },
         "czerny": {
-            "branch": "",
+            "branch": "Arts-Protector",
             "class": "Defender",
             "icon": "",
             "name": "Czerny",
@@ -743,7 +841,7 @@
             "skins": []
         },
         "dagda": {
-            "branch": "",
+            "branch": "Fighter",
             "class": "Guard",
             "icon": "",
             "name": "Dagda",
@@ -751,23 +849,23 @@
             "skins": []
         },
         "deepcolor": {
-            "branch": "",
+            "branch": "Summoner",
             "class": "Supporter",
-            "icon": "",
+            "icon": "avatars/char_110_deepcl.png",
             "name": "Deepcolor",
             "rarity": 4,
             "skins": []
         },
         "dobermann": {
-            "branch": "",
+            "branch": "Instructor",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_130_doberm.png",
             "name": "Dobermann",
             "rarity": 4,
             "skins": []
         },
         "dorothy": {
-            "branch": "",
+            "branch": "Trapmaster",
             "class": "Specialist",
             "icon": "",
             "name": "Dorothy",
@@ -775,7 +873,7 @@
             "skins": []
         },
         "dur-nar": {
-            "branch": "",
+            "branch": "Arts-Protector",
             "class": "Defender",
             "icon": "",
             "name": "Dur-nar",
@@ -783,7 +881,7 @@
             "skins": []
         },
         "durin": {
-            "branch": "",
+            "branch": "Core-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Durin",
@@ -791,7 +889,7 @@
             "skins": []
         },
         "dusk": {
-            "branch": "",
+            "branch": "Splash-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Dusk",
@@ -799,7 +897,7 @@
             "skins": []
         },
         "earthspirit": {
-            "branch": "",
+            "branch": "Decel-Binder",
             "class": "Supporter",
             "icon": "",
             "name": "Earthspirit",
@@ -807,7 +905,7 @@
             "skins": []
         },
         "ebenholz": {
-            "branch": "",
+            "branch": "Mystic-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Ebenholz",
@@ -815,7 +913,7 @@
             "skins": []
         },
         "elysium": {
-            "branch": "",
+            "branch": "Standard-Bearer",
             "class": "Vanguard",
             "icon": "",
             "name": "Elysium",
@@ -823,7 +921,7 @@
             "skins": []
         },
         "enforcer": {
-            "branch": "",
+            "branch": "Push-Stroker",
             "class": "Specialist",
             "icon": "",
             "name": "Enforcer",
@@ -831,7 +929,7 @@
             "skins": []
         },
         "erato": {
-            "branch": "",
+            "branch": "Besieger",
             "class": "Sniper",
             "icon": "",
             "name": "Erato",
@@ -839,15 +937,15 @@
             "skins": []
         },
         "estelle": {
-            "branch": "",
+            "branch": "Centurion",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_127_estell.png",
             "name": "Estelle",
             "rarity": 4,
             "skins": []
         },
         "ethan": {
-            "branch": "",
+            "branch": "Ambusher",
             "class": "Specialist",
             "icon": "",
             "name": "Ethan",
@@ -855,7 +953,7 @@
             "skins": []
         },
         "eunectes": {
-            "branch": "",
+            "branch": "Duelist",
             "class": "Defender",
             "icon": "",
             "name": "Eunectes",
@@ -863,7 +961,7 @@
             "skins": []
         },
         "executor": {
-            "branch": "",
+            "branch": "Spreadshooter",
             "class": "Sniper",
             "icon": "",
             "name": "Executor",
@@ -871,15 +969,15 @@
             "skins": []
         },
         "exusiai": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_103_angel.png",
             "name": "Exusiai",
             "rarity": 6,
             "skins": []
         },
         "eyjafjalla": {
-            "branch": "",
+            "branch": "Core-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Eyjafjalla",
@@ -887,15 +985,15 @@
             "skins": []
         },
         "fang": {
-            "branch": "",
+            "branch": "Pioneer",
             "class": "Vanguard",
-            "icon": "",
+            "icon": "avatars/char_123_fang.png",
             "name": "Fang",
             "rarity": 3,
             "skins": []
         },
         "fartooth": {
-            "branch": "",
+            "branch": "Deadeye",
             "class": "Sniper",
             "icon": "",
             "name": "Fartooth",
@@ -903,7 +1001,7 @@
             "skins": []
         },
         "feater": {
-            "branch": "",
+            "branch": "Push-Stroker",
             "class": "Specialist",
             "icon": "",
             "name": "FEater",
@@ -911,7 +1009,7 @@
             "skins": []
         },
         "fiammetta": {
-            "branch": "",
+            "branch": "Artilleryman",
             "class": "Sniper",
             "icon": "",
             "name": "Fiammetta",
@@ -919,7 +1017,7 @@
             "skins": []
         },
         "firewatch": {
-            "branch": "",
+            "branch": "Deadeye",
             "class": "Sniper",
             "icon": "",
             "name": "Firewatch",
@@ -927,23 +1025,23 @@
             "skins": []
         },
         "firewhistle": {
-            "branch": "",
+            "branch": "Fortress",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_493_firwhl.png",
             "name": "Firewhistle",
             "rarity": 5,
             "skins": []
         },
         "flamebringer": {
-            "branch": "",
+            "branch": "Dreadnought",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_131_flameb.png",
             "name": "Flamebringer",
             "rarity": 5,
             "skins": []
         },
         "flametail": {
-            "branch": "",
+            "branch": "Pioneer",
             "class": "Vanguard",
             "icon": "",
             "name": "Flametail",
@@ -951,7 +1049,7 @@
             "skins": []
         },
         "flint": {
-            "branch": "",
+            "branch": "Fighter",
             "class": "Guard",
             "icon": "",
             "name": "Flint",
@@ -959,7 +1057,7 @@
             "skins": []
         },
         "folinic": {
-            "branch": "",
+            "branch": "Medic",
             "class": "Medic",
             "icon": "",
             "name": "Folinic",
@@ -967,15 +1065,15 @@
             "skins": []
         },
         "franka": {
-            "branch": "",
+            "branch": "Dreadnought",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_106_franka.png",
             "name": "Franka",
             "rarity": 5,
             "skins": []
         },
         "frost": {
-            "branch": "",
+            "branch": "Trapmaster",
             "class": "Specialist",
             "icon": "",
             "name": "Frost",
@@ -983,7 +1081,7 @@
             "skins": []
         },
         "frostleaf": {
-            "branch": "",
+            "branch": "Lord",
             "class": "Guard",
             "icon": "",
             "name": "Frostleaf",
@@ -991,7 +1089,7 @@
             "skins": []
         },
         "gavial": {
-            "branch": "",
+            "branch": "Medic",
             "class": "Medic",
             "icon": "",
             "name": "Gavial",
@@ -999,7 +1097,7 @@
             "skins": []
         },
         "gavial_the_invincible": {
-            "branch": "",
+            "branch": "Centurion",
             "class": "Guard",
             "icon": "",
             "name": "Gavial the Invincible",
@@ -1007,15 +1105,15 @@
             "skins": []
         },
         "gitano": {
-            "branch": "",
+            "branch": "Splash-Caster",
             "class": "Caster",
-            "icon": "",
+            "icon": "avatars/char_109_fmout.png",
             "name": "Gitano",
             "rarity": 4,
             "skins": []
         },
         "gladiia": {
-            "branch": "",
+            "branch": "Hookmaster",
             "class": "Specialist",
             "icon": "",
             "name": "Gladiia",
@@ -1023,7 +1121,7 @@
             "skins": []
         },
         "glaucus": {
-            "branch": "",
+            "branch": "Decel-Binder",
             "class": "Supporter",
             "icon": "",
             "name": "Glaucus",
@@ -1031,7 +1129,7 @@
             "skins": []
         },
         "gnosis": {
-            "branch": "",
+            "branch": "Hexer",
             "class": "Supporter",
             "icon": "",
             "name": "Gnosis",
@@ -1039,7 +1137,7 @@
             "skins": []
         },
         "goldenglow": {
-            "branch": "",
+            "branch": "Mech-Accord",
             "class": "Caster",
             "icon": "",
             "name": "Goldenglow",
@@ -1047,7 +1145,7 @@
             "skins": []
         },
         "grani": {
-            "branch": "",
+            "branch": "Charger",
             "class": "Vanguard",
             "icon": "",
             "name": "Grani",
@@ -1055,7 +1153,7 @@
             "skins": []
         },
         "gravel": {
-            "branch": "",
+            "branch": "Executor",
             "class": "Specialist",
             "icon": "",
             "name": "Gravel",
@@ -1063,7 +1161,7 @@
             "skins": []
         },
         "greythroat": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
             "icon": "",
             "name": "GreyThroat",
@@ -1071,7 +1169,7 @@
             "skins": []
         },
         "greyy": {
-            "branch": "",
+            "branch": "Splash-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Greyy",
@@ -1079,7 +1177,7 @@
             "skins": []
         },
         "greyy_the_lightningbearer": {
-            "branch": "",
+            "branch": "Flinger",
             "class": "Sniper",
             "icon": "",
             "name": "Greyy the Lightningbearer",
@@ -1087,7 +1185,7 @@
             "skins": []
         },
         "gummy": {
-            "branch": "",
+            "branch": "Guardian",
             "class": "Defender",
             "icon": "",
             "name": "Gummy",
@@ -1095,23 +1193,23 @@
             "skins": []
         },
         "harmonie": {
-            "branch": "",
+            "branch": "Mystic-Caster",
             "class": "Caster",
-            "icon": "",
+            "icon": "avatars/char_297_hamoni.png",
             "name": "Harmonie",
             "rarity": 5,
             "skins": []
         },
         "haze": {
-            "branch": "",
+            "branch": "Core-Caster",
             "class": "Caster",
-            "icon": "",
+            "icon": "avatars/char_141_nights.png",
             "name": "Haze",
             "rarity": 4,
             "skins": []
         },
         "heavyrain": {
-            "branch": "",
+            "branch": "Protector",
             "class": "Defender",
             "icon": "",
             "name": "Heavyrain",
@@ -1119,7 +1217,7 @@
             "skins": []
         },
         "heidi": {
-            "branch": "",
+            "branch": "Bard",
             "class": "Supporter",
             "icon": "",
             "name": "Heidi",
@@ -1127,7 +1225,7 @@
             "skins": []
         },
         "hellagur": {
-            "branch": "",
+            "branch": "Musha",
             "class": "Guard",
             "icon": "",
             "name": "Hellagur",
@@ -1135,15 +1233,15 @@
             "skins": []
         },
         "hibiscus": {
-            "branch": "",
+            "branch": "Medic",
             "class": "Medic",
-            "icon": "",
+            "icon": "avatars/char_120_hibisc.png",
             "name": "Hibiscus",
             "rarity": 3,
             "skins": []
         },
         "hibiscus_the_purifier": {
-            "branch": "",
+            "branch": "Incantation",
             "class": "Medic",
             "icon": "",
             "name": "Hibiscus the Purifier",
@@ -1151,7 +1249,7 @@
             "skins": []
         },
         "highmore": {
-            "branch": "",
+            "branch": "Reaper-Guard",
             "class": "Guard",
             "icon": "",
             "name": "Highmore",
@@ -1159,15 +1257,23 @@
             "skins": []
         },
         "honeyberry": {
-            "branch": "",
+            "branch": "Wandering-Medic",
             "class": "Medic",
             "icon": "",
             "name": "Honeyberry",
             "rarity": 5,
             "skins": []
         },
+        "hoolheyak": {
+            "branch": "Core-Caster",
+            "class": "Caster",
+            "icon": "",
+            "name": "Ho'olheyak",
+            "rarity": 6,
+            "skins": []
+        },
         "horn": {
-            "branch": "",
+            "branch": "Fortress",
             "class": "Defender",
             "icon": "",
             "name": "Horn",
@@ -1175,23 +1281,23 @@
             "skins": []
         },
         "hoshiguma": {
-            "branch": "",
+            "branch": "Protector",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_136_hsguma.png",
             "name": "Hoshiguma",
             "rarity": 6,
             "skins": []
         },
         "humus": {
-            "branch": "",
+            "branch": "Reaper-Guard",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_491_humus.png",
             "name": "Humus",
             "rarity": 4,
             "skins": []
         },
         "hung": {
-            "branch": "",
+            "branch": "Guardian",
             "class": "Defender",
             "icon": "",
             "name": "Hung",
@@ -1199,15 +1305,15 @@
             "skins": []
         },
         "ifrit": {
-            "branch": "",
+            "branch": "Blast-Caster",
             "class": "Caster",
-            "icon": "",
+            "icon": "avatars/char_134_ifrit.png",
             "name": "Ifrit",
             "rarity": 6,
             "skins": []
         },
         "indigo": {
-            "branch": "",
+            "branch": "Mystic-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Indigo",
@@ -1215,7 +1321,7 @@
             "skins": []
         },
         "indra": {
-            "branch": "",
+            "branch": "Fighter",
             "class": "Guard",
             "icon": "",
             "name": "Indra",
@@ -1223,15 +1329,15 @@
             "skins": []
         },
         "ines": {
-            "branch": "",
+            "branch": "Agent",
             "class": "Vanguard",
-            "icon": "",
+            "icon": "avatars/char_4087_ines.png",
             "name": "Ines",
             "rarity": 6,
             "skins": []
         },
         "irene": {
-            "branch": "",
+            "branch": "Swordmaster",
             "class": "Guard",
             "icon": "",
             "name": "Irene",
@@ -1239,7 +1345,7 @@
             "skins": []
         },
         "iris": {
-            "branch": "",
+            "branch": "Mystic-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Iris",
@@ -1247,7 +1353,7 @@
             "skins": []
         },
         "istina": {
-            "branch": "",
+            "branch": "Decel-Binder",
             "class": "Supporter",
             "icon": "",
             "name": "Istina",
@@ -1255,7 +1361,7 @@
             "skins": []
         },
         "jackie": {
-            "branch": "",
+            "branch": "Fighter",
             "class": "Guard",
             "icon": "",
             "name": "Jackie",
@@ -1263,7 +1369,7 @@
             "skins": []
         },
         "jaye": {
-            "branch": "",
+            "branch": "Merchant",
             "class": "Specialist",
             "icon": "",
             "name": "Jaye",
@@ -1271,7 +1377,7 @@
             "skins": []
         },
         "jessica": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
             "icon": "",
             "name": "Jessica",
@@ -1279,31 +1385,39 @@
             "skins": []
         },
         "jieyun": {
-            "branch": "",
+            "branch": "Artilleryman",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_4078_bdhkgt.png",
             "name": "Jieyun",
             "rarity": 5,
             "skins": []
         },
+        "justice_knight": {
+            "branch": "Marksman",
+            "class": "Sniper",
+            "icon": "",
+            "name": "'Justice Knight'",
+            "rarity": 1,
+            "skins": []
+        },
         "kafka": {
-            "branch": "",
+            "branch": "Executor",
             "class": "Specialist",
             "icon": "",
             "name": "Kafka",
             "rarity": 5,
             "skins": []
         },
-        "kal'tsit": {
-            "branch": "",
+        "kaltsit": {
+            "branch": "Medic",
             "class": "Medic",
-            "icon": "",
+            "icon": "avatars/char_003_kalts.png",
             "name": "Kal'tsit",
             "rarity": 6,
             "skins": []
         },
         "kazemaru": {
-            "branch": "",
+            "branch": "Dollkeeper",
             "class": "Specialist",
             "icon": "",
             "name": "Kazemaru",
@@ -1311,7 +1425,7 @@
             "skins": []
         },
         "kirara": {
-            "branch": "",
+            "branch": "Ambusher",
             "class": "Specialist",
             "icon": "",
             "name": "Kirara",
@@ -1319,15 +1433,15 @@
             "skins": []
         },
         "kirin_x_yato": {
-            "branch": "",
+            "branch": "Executor",
             "class": "Specialist",
-            "icon": "",
+            "icon": "avatars/char_1029_yato2.png",
             "name": "Kirin X Yato",
             "rarity": 6,
             "skins": []
         },
         "kjera": {
-            "branch": "",
+            "branch": "Mech-Accord",
             "class": "Caster",
             "icon": "",
             "name": "Kjera",
@@ -1335,15 +1449,15 @@
             "skins": []
         },
         "kroos": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_124_kroos.png",
             "name": "Kroos",
             "rarity": 3,
             "skins": []
         },
         "kroos_the_keen_glint": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
             "icon": "",
             "name": "Kroos the Keen Glint",
@@ -1351,7 +1465,7 @@
             "skins": []
         },
         "la_pluma": {
-            "branch": "",
+            "branch": "Reaper-Guard",
             "class": "Guard",
             "icon": "",
             "name": "La Pluma",
@@ -1359,7 +1473,7 @@
             "skins": []
         },
         "lancet-2": {
-            "branch": "",
+            "branch": "Medic",
             "class": "Medic",
             "icon": "",
             "name": "Lancet-2",
@@ -1367,15 +1481,15 @@
             "skins": []
         },
         "lappland": {
-            "branch": "",
+            "branch": "Lord",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_140_whitew.png",
             "name": "Lappland",
             "rarity": 5,
             "skins": []
         },
         "lava": {
-            "branch": "",
+            "branch": "Splash-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Lava",
@@ -1383,7 +1497,7 @@
             "skins": []
         },
         "lava_the_purgatory": {
-            "branch": "",
+            "branch": "Splash-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Lava the Purgatory",
@@ -1391,7 +1505,7 @@
             "skins": []
         },
         "lee": {
-            "branch": "",
+            "branch": "Merchant",
             "class": "Specialist",
             "icon": "",
             "name": "Lee",
@@ -1399,7 +1513,7 @@
             "skins": []
         },
         "leizi": {
-            "branch": "",
+            "branch": "Chain-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Leizi",
@@ -1407,7 +1521,7 @@
             "skins": []
         },
         "leonhardt": {
-            "branch": "",
+            "branch": "Splash-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Leonhardt",
@@ -1415,15 +1529,15 @@
             "skins": []
         },
         "lin": {
-            "branch": "",
+            "branch": "Phalanx-Caster",
             "class": "Caster",
-            "icon": "",
+            "icon": "avatars/char_4080_lin.png",
             "name": "Lin",
             "rarity": 6,
             "skins": []
         },
         "ling": {
-            "branch": "",
+            "branch": "Summoner",
             "class": "Supporter",
             "icon": "",
             "name": "Ling",
@@ -1431,15 +1545,15 @@
             "skins": []
         },
         "liskarm": {
-            "branch": "",
+            "branch": "Protector",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_107_liskarm.png",
             "name": "Liskarm",
             "rarity": 5,
             "skins": []
         },
         "lumen": {
-            "branch": "",
+            "branch": "Therapist",
             "class": "Medic",
             "icon": "",
             "name": "Lumen",
@@ -1447,15 +1561,15 @@
             "skins": []
         },
         "lunacub": {
-            "branch": "",
+            "branch": "Deadeye",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_4014_lunacu.png",
             "name": "Lunacub",
             "rarity": 5,
             "skins": []
         },
         "luo_xiaohei": {
-            "branch": "",
+            "branch": "Lord",
             "class": "Guard",
             "icon": "",
             "name": "Luo Xiaohei",
@@ -1463,7 +1577,7 @@
             "skins": []
         },
         "magallan": {
-            "branch": "",
+            "branch": "Summoner",
             "class": "Supporter",
             "icon": "",
             "name": "Magallan",
@@ -1471,7 +1585,7 @@
             "skins": []
         },
         "manticore": {
-            "branch": "",
+            "branch": "Ambusher",
             "class": "Specialist",
             "icon": "",
             "name": "Manticore",
@@ -1479,7 +1593,7 @@
             "skins": []
         },
         "matoimaru": {
-            "branch": "",
+            "branch": "Dreadnought",
             "class": "Guard",
             "icon": "",
             "name": "Matoimaru",
@@ -1487,7 +1601,7 @@
             "skins": []
         },
         "matterhorn": {
-            "branch": "",
+            "branch": "Protector",
             "class": "Defender",
             "icon": "",
             "name": "Matterhorn",
@@ -1495,23 +1609,31 @@
             "skins": []
         },
         "may": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_133_mm.png",
             "name": "May",
             "rarity": 4,
             "skins": []
         },
         "mayer": {
-            "branch": "",
+            "branch": "Summoner",
             "class": "Supporter",
             "icon": "",
             "name": "Mayer",
             "rarity": 5,
             "skins": []
         },
+        "melanite": {
+            "branch": "Heavyshooter",
+            "class": "Sniper",
+            "icon": "",
+            "name": "Melanite",
+            "rarity": 5,
+            "skins": []
+        },
         "melantha": {
-            "branch": "",
+            "branch": "Dreadnought",
             "class": "Guard",
             "icon": "",
             "name": "Melantha",
@@ -1519,15 +1641,15 @@
             "skins": []
         },
         "meteor": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_126_shotst.png",
             "name": "Meteor",
             "rarity": 4,
             "skins": []
         },
         "meteorite": {
-            "branch": "",
+            "branch": "Artilleryman",
             "class": "Sniper",
             "icon": "",
             "name": "Meteorite",
@@ -1535,7 +1657,7 @@
             "skins": []
         },
         "midnight": {
-            "branch": "",
+            "branch": "Lord",
             "class": "Guard",
             "icon": "",
             "name": "Midnight",
@@ -1543,7 +1665,7 @@
             "skins": []
         },
         "minimalist": {
-            "branch": "",
+            "branch": "Mech-Accord",
             "class": "Caster",
             "icon": "",
             "name": "Minimalist",
@@ -1551,7 +1673,7 @@
             "skins": []
         },
         "mint": {
-            "branch": "",
+            "branch": "Phalanx-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Mint",
@@ -1559,7 +1681,7 @@
             "skins": []
         },
         "mizuki": {
-            "branch": "",
+            "branch": "Ambusher",
             "class": "Specialist",
             "icon": "",
             "name": "Mizuki",
@@ -1567,15 +1689,15 @@
             "skins": []
         },
         "morgan": {
-            "branch": "",
+            "branch": "Dreadnought",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_154_morgan.png",
             "name": "Morgan",
             "rarity": 5,
             "skins": []
         },
         "mostima": {
-            "branch": "",
+            "branch": "Splash-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Mostima",
@@ -1583,7 +1705,7 @@
             "skins": []
         },
         "mountain": {
-            "branch": "",
+            "branch": "Fighter",
             "class": "Guard",
             "icon": "",
             "name": "Mountain",
@@ -1591,7 +1713,7 @@
             "skins": []
         },
         "mousse": {
-            "branch": "",
+            "branch": "Arts-Fighter",
             "class": "Guard",
             "icon": "",
             "name": "Mousse",
@@ -1599,7 +1721,7 @@
             "skins": []
         },
         "mr._nothing": {
-            "branch": "",
+            "branch": "Merchant",
             "class": "Specialist",
             "icon": "",
             "name": "Mr. Nothing",
@@ -1607,7 +1729,7 @@
             "skins": []
         },
         "mudrock": {
-            "branch": "",
+            "branch": "Juggernaut",
             "class": "Defender",
             "icon": "",
             "name": "Mudrock",
@@ -1615,7 +1737,7 @@
             "skins": []
         },
         "mulberry": {
-            "branch": "",
+            "branch": "Wandering-Medic",
             "class": "Medic",
             "icon": "",
             "name": "Mulberry",
@@ -1623,15 +1745,15 @@
             "skins": []
         },
         "myrrh": {
-            "branch": "",
+            "branch": "Medic",
             "class": "Medic",
-            "icon": "",
+            "icon": "avatars/char_117_myrrh.png",
             "name": "Myrrh",
             "rarity": 4,
             "skins": []
         },
         "myrtle": {
-            "branch": "",
+            "branch": "Standard-Bearer",
             "class": "Vanguard",
             "icon": "",
             "name": "Myrtle",
@@ -1639,7 +1761,7 @@
             "skins": []
         },
         "m\u0142ynar": {
-            "branch": "",
+            "branch": "Liberator-Guard",
             "class": "Guard",
             "icon": "",
             "name": "M\u0142ynar",
@@ -1647,15 +1769,15 @@
             "skins": []
         },
         "nearl": {
-            "branch": "",
+            "branch": "Guardian",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_148_nearl.png",
             "name": "Nearl",
             "rarity": 5,
             "skins": []
         },
         "nearl_the_radiant_knight": {
-            "branch": "",
+            "branch": "Dreadnought",
             "class": "Guard",
             "icon": "",
             "name": "Nearl the Radiant Knight",
@@ -1663,7 +1785,7 @@
             "skins": []
         },
         "nian": {
-            "branch": "",
+            "branch": "Protector",
             "class": "Defender",
             "icon": "",
             "name": "Nian",
@@ -1671,7 +1793,7 @@
             "skins": []
         },
         "nightingale": {
-            "branch": "",
+            "branch": "Multi-target-Medic",
             "class": "Medic",
             "icon": "",
             "name": "Nightingale",
@@ -1679,7 +1801,7 @@
             "skins": []
         },
         "nightmare": {
-            "branch": "",
+            "branch": "Core-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Nightmare",
@@ -1687,7 +1809,7 @@
             "skins": []
         },
         "nine-colored_deer": {
-            "branch": "",
+            "branch": "Abjurer",
             "class": "Supporter",
             "icon": "",
             "name": "Nine-Colored Deer",
@@ -1695,7 +1817,7 @@
             "skins": []
         },
         "noir_corne": {
-            "branch": "",
+            "branch": "Protector",
             "class": "Defender",
             "icon": "",
             "name": "Noir Corne",
@@ -1703,7 +1825,7 @@
             "skins": []
         },
         "orchid": {
-            "branch": "",
+            "branch": "Decel-Binder",
             "class": "Supporter",
             "icon": "",
             "name": "Orchid",
@@ -1711,7 +1833,7 @@
             "skins": []
         },
         "pallas": {
-            "branch": "",
+            "branch": "Instructor",
             "class": "Guard",
             "icon": "",
             "name": "Pallas",
@@ -1719,7 +1841,7 @@
             "skins": []
         },
         "paprika": {
-            "branch": "",
+            "branch": "Chain-Healer",
             "class": "Medic",
             "icon": "",
             "name": "Paprika",
@@ -1727,7 +1849,7 @@
             "skins": []
         },
         "passenger": {
-            "branch": "",
+            "branch": "Chain-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Passenger",
@@ -1735,15 +1857,15 @@
             "skins": []
         },
         "penance": {
-            "branch": "",
+            "branch": "Juggernaut",
             "class": "Defender",
-            "icon": "",
+            "icon": "avatars/char_4065_judge.png",
             "name": "Penance",
             "rarity": 6,
             "skins": []
         },
         "perfumer": {
-            "branch": "",
+            "branch": "Multi-target-Medic",
             "class": "Medic",
             "icon": "",
             "name": "Perfumer",
@@ -1751,7 +1873,7 @@
             "skins": []
         },
         "phantom": {
-            "branch": "",
+            "branch": "Executor",
             "class": "Specialist",
             "icon": "",
             "name": "Phantom",
@@ -1759,7 +1881,7 @@
             "skins": []
         },
         "pinecone": {
-            "branch": "",
+            "branch": "Spreadshooter",
             "class": "Sniper",
             "icon": "",
             "name": "Pinecone",
@@ -1767,7 +1889,7 @@
             "skins": []
         },
         "pith": {
-            "branch": "",
+            "branch": "Splash-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Pith",
@@ -1775,7 +1897,7 @@
             "skins": []
         },
         "platinum": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
             "icon": "",
             "name": "Platinum",
@@ -1783,7 +1905,7 @@
             "skins": []
         },
         "plume": {
-            "branch": "",
+            "branch": "Charger",
             "class": "Vanguard",
             "icon": "",
             "name": "Plume",
@@ -1791,7 +1913,7 @@
             "skins": []
         },
         "podenco": {
-            "branch": "",
+            "branch": "Decel-Binder",
             "class": "Supporter",
             "icon": "",
             "name": "Podenco",
@@ -1799,7 +1921,7 @@
             "skins": []
         },
         "popukar": {
-            "branch": "",
+            "branch": "Centurion",
             "class": "Guard",
             "icon": "",
             "name": "Popukar",
@@ -1807,7 +1929,7 @@
             "skins": []
         },
         "poz\u00ebmka": {
-            "branch": "",
+            "branch": "Heavyshooter",
             "class": "Sniper",
             "icon": "",
             "name": "Poz\u00ebmka",
@@ -1815,7 +1937,7 @@
             "skins": []
         },
         "pramanix": {
-            "branch": "",
+            "branch": "Hexer",
             "class": "Supporter",
             "icon": "",
             "name": "Pramanix",
@@ -1823,23 +1945,23 @@
             "skins": []
         },
         "projekt_red": {
-            "branch": "",
+            "branch": "Executor",
             "class": "Specialist",
-            "icon": "",
+            "icon": "avatars/char_144_red.png",
             "name": "Projekt Red",
             "rarity": 5,
             "skins": []
         },
         "provence": {
-            "branch": "",
+            "branch": "Heavyshooter",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_145_prove.png",
             "name": "Provence",
             "rarity": 5,
             "skins": []
         },
         "proviso": {
-            "branch": "",
+            "branch": "Decel-Binder",
             "class": "Supporter",
             "icon": "",
             "name": "Proviso",
@@ -1847,15 +1969,15 @@
             "skins": []
         },
         "ptilopsis": {
-            "branch": "",
+            "branch": "Multi-target-Medic",
             "class": "Medic",
-            "icon": "",
+            "icon": "avatars/char_128_plosis.png",
             "name": "Ptilopsis",
             "rarity": 5,
             "skins": []
         },
         "pudding": {
-            "branch": "",
+            "branch": "Chain-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Pudding",
@@ -1863,7 +1985,7 @@
             "skins": []
         },
         "purestream": {
-            "branch": "",
+            "branch": "Therapist",
             "class": "Medic",
             "icon": "",
             "name": "Purestream",
@@ -1871,39 +1993,39 @@
             "skins": []
         },
         "puzzle": {
-            "branch": "",
+            "branch": "Agent",
             "class": "Vanguard",
-            "icon": "",
+            "icon": "avatars/char_4017_puzzle.png",
             "name": "Puzzle",
             "rarity": 5,
             "skins": []
         },
         "qanipalaat": {
-            "branch": "",
+            "branch": "Core-Caster",
             "class": "Caster",
-            "icon": "",
+            "icon": "avatars/char_466_qanik.png",
             "name": "Qanipalaat",
             "rarity": 5,
             "skins": []
         },
         "qiubai": {
-            "branch": "",
+            "branch": "Lord",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_4082_qiubai.png",
             "name": "Qiubai",
             "rarity": 6,
             "skins": []
         },
         "quartz": {
-            "branch": "",
+            "branch": "Crusher",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_4063_quartz.png",
             "name": "Quartz",
             "rarity": 4,
             "skins": []
         },
         "quercus": {
-            "branch": "",
+            "branch": "Abjurer",
             "class": "Supporter",
             "icon": "",
             "name": "Quercus",
@@ -1911,7 +2033,7 @@
             "skins": []
         },
         "rangers": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
             "icon": "",
             "name": "Rangers",
@@ -1919,23 +2041,23 @@
             "skins": []
         },
         "rathalos_s_noir_corne": {
-            "branch": "",
+            "branch": "Musha",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_1030_noirc2.png",
             "name": "Rathalos S Noir Corne",
             "rarity": 5,
             "skins": []
         },
         "reed": {
-            "branch": "",
+            "branch": "Charger",
             "class": "Vanguard",
-            "icon": "",
+            "icon": "avatars/char_1020_reed2.png",
             "name": "Reed",
             "rarity": 5,
             "skins": []
         },
         "reed_the_flame_shadow": {
-            "branch": "",
+            "branch": "Incantation",
             "class": "Medic",
             "icon": "",
             "name": "Reed The Flame Shadow",
@@ -1943,7 +2065,7 @@
             "skins": []
         },
         "reserve_operator_-_caster": {
-            "branch": "",
+            "branch": "Core-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Reserve Operator - Caster",
@@ -1951,7 +2073,7 @@
             "skins": []
         },
         "reserve_operator_-_logistics": {
-            "branch": "",
+            "branch": "Medic",
             "class": "Medic",
             "icon": "",
             "name": "Reserve Operator - Logistics",
@@ -1959,7 +2081,7 @@
             "skins": []
         },
         "reserve_operator_-_melee": {
-            "branch": "",
+            "branch": "Pioneer",
             "class": "Vanguard",
             "icon": "",
             "name": "Reserve Operator - Melee",
@@ -1967,7 +2089,7 @@
             "skins": []
         },
         "reserve_operator_-_sniper": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
             "icon": "",
             "name": "Reserve Operator - Sniper",
@@ -1975,7 +2097,7 @@
             "skins": []
         },
         "roberta": {
-            "branch": "",
+            "branch": "Artificer",
             "class": "Supporter",
             "icon": "",
             "name": "Roberta",
@@ -1983,7 +2105,7 @@
             "skins": []
         },
         "robin": {
-            "branch": "",
+            "branch": "Trapmaster",
             "class": "Specialist",
             "icon": "",
             "name": "Robin",
@@ -1991,7 +2113,7 @@
             "skins": []
         },
         "rockrock": {
-            "branch": "",
+            "branch": "Mech-Accord",
             "class": "Caster",
             "icon": "",
             "name": "Rockrock",
@@ -1999,15 +2121,15 @@
             "skins": []
         },
         "rope": {
-            "branch": "",
+            "branch": "Hookmaster",
             "class": "Specialist",
             "icon": "",
             "name": "Rope",
             "rarity": 4,
             "skins": []
         },
-        "rosa_(poca)": {
-            "branch": "",
+        "rosa_poca": {
+            "branch": "Besieger",
             "class": "Sniper",
             "icon": "",
             "name": "Rosa (Poca)",
@@ -2015,7 +2137,7 @@
             "skins": []
         },
         "rosmontis": {
-            "branch": "",
+            "branch": "Flinger",
             "class": "Sniper",
             "icon": "",
             "name": "Rosmontis",
@@ -2023,7 +2145,7 @@
             "skins": []
         },
         "saga": {
-            "branch": "",
+            "branch": "Pioneer",
             "class": "Vanguard",
             "icon": "",
             "name": "Saga",
@@ -2031,7 +2153,7 @@
             "skins": []
         },
         "saileach": {
-            "branch": "",
+            "branch": "Standard-Bearer",
             "class": "Vanguard",
             "icon": "",
             "name": "Saileach",
@@ -2039,7 +2161,7 @@
             "skins": []
         },
         "saria": {
-            "branch": "",
+            "branch": "Guardian",
             "class": "Defender",
             "icon": "",
             "name": "Saria",
@@ -2047,7 +2169,7 @@
             "skins": []
         },
         "savage": {
-            "branch": "",
+            "branch": "Centurion",
             "class": "Guard",
             "icon": "",
             "name": "Savage",
@@ -2055,7 +2177,7 @@
             "skins": []
         },
         "scavenger": {
-            "branch": "",
+            "branch": "Pioneer",
             "class": "Vanguard",
             "icon": "",
             "name": "Scavenger",
@@ -2063,7 +2185,7 @@
             "skins": []
         },
         "scene": {
-            "branch": "",
+            "branch": "Summoner",
             "class": "Supporter",
             "icon": "",
             "name": "Scene",
@@ -2071,7 +2193,7 @@
             "skins": []
         },
         "schwarz": {
-            "branch": "",
+            "branch": "Heavyshooter",
             "class": "Sniper",
             "icon": "",
             "name": "Schwarz",
@@ -2079,7 +2201,7 @@
             "skins": []
         },
         "sesa": {
-            "branch": "",
+            "branch": "Artilleryman",
             "class": "Sniper",
             "icon": "",
             "name": "Sesa",
@@ -2087,7 +2209,7 @@
             "skins": []
         },
         "shalem": {
-            "branch": "",
+            "branch": "Arts-Protector",
             "class": "Defender",
             "icon": "",
             "name": "Shalem",
@@ -2095,7 +2217,7 @@
             "skins": []
         },
         "shamare": {
-            "branch": "",
+            "branch": "Hexer",
             "class": "Supporter",
             "icon": "",
             "name": "Shamare",
@@ -2103,7 +2225,7 @@
             "skins": []
         },
         "sharp": {
-            "branch": "",
+            "branch": "Dreadnought",
             "class": "Guard",
             "icon": "",
             "name": "Sharp",
@@ -2111,7 +2233,7 @@
             "skins": []
         },
         "shaw": {
-            "branch": "",
+            "branch": "Push-Stroker",
             "class": "Specialist",
             "icon": "",
             "name": "Shaw",
@@ -2119,23 +2241,23 @@
             "skins": []
         },
         "shining": {
-            "branch": "",
+            "branch": "Medic",
             "class": "Medic",
-            "icon": "",
+            "icon": "avatars/char_147_shining.png",
             "name": "Shining",
             "rarity": 6,
             "skins": []
         },
         "shirayuki": {
-            "branch": "",
+            "branch": "Artilleryman",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_118_yuki.png",
             "name": "Shirayuki",
             "rarity": 4,
             "skins": []
         },
         "sideroca": {
-            "branch": "",
+            "branch": "Arts-Fighter",
             "class": "Guard",
             "icon": "",
             "name": "Sideroca",
@@ -2143,23 +2265,31 @@
             "skins": []
         },
         "siege": {
-            "branch": "",
+            "branch": "Pioneer",
             "class": "Vanguard",
-            "icon": "",
+            "icon": "avatars/char_112_siege.png",
             "name": "Siege",
             "rarity": 6,
             "skins": []
         },
         "silence": {
-            "branch": "",
+            "branch": "Medic",
             "class": "Medic",
-            "icon": "",
+            "icon": "avatars/char_108_silent.png",
             "name": "Silence",
             "rarity": 5,
             "skins": []
         },
+        "silence_the_paradigmatic": {
+            "branch": "Abjurer",
+            "class": "Supporter",
+            "icon": "",
+            "name": "Silence The Paradigmatic",
+            "rarity": 6,
+            "skins": []
+        },
         "silverash": {
-            "branch": "",
+            "branch": "Lord",
             "class": "Guard",
             "icon": "",
             "name": "SilverAsh",
@@ -2167,7 +2297,7 @@
             "skins": []
         },
         "skadi": {
-            "branch": "",
+            "branch": "Dreadnought",
             "class": "Guard",
             "icon": "",
             "name": "Skadi",
@@ -2175,7 +2305,7 @@
             "skins": []
         },
         "skadi_the_corrupting_heart": {
-            "branch": "",
+            "branch": "Bard",
             "class": "Supporter",
             "icon": "",
             "name": "Skadi the Corrupting Heart",
@@ -2183,7 +2313,7 @@
             "skins": []
         },
         "skyfire": {
-            "branch": "",
+            "branch": "Splash-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Skyfire",
@@ -2191,7 +2321,7 @@
             "skins": []
         },
         "snowsant": {
-            "branch": "",
+            "branch": "Hookmaster",
             "class": "Specialist",
             "icon": "",
             "name": "Snowsant",
@@ -2199,23 +2329,23 @@
             "skins": []
         },
         "sora": {
-            "branch": "",
+            "branch": "Bard",
             "class": "Supporter",
-            "icon": "",
+            "icon": "avatars/char_101_sora.png",
             "name": "Sora",
             "rarity": 5,
             "skins": []
         },
         "specter": {
-            "branch": "",
+            "branch": "Centurion",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_143_ghost.png",
             "name": "Specter",
             "rarity": 5,
             "skins": []
         },
         "specter_the_unchained": {
-            "branch": "",
+            "branch": "Dollkeeper",
             "class": "Specialist",
             "icon": "",
             "name": "Specter the Unchained",
@@ -2223,7 +2353,7 @@
             "skins": []
         },
         "spot": {
-            "branch": "",
+            "branch": "Guardian",
             "class": "Defender",
             "icon": "",
             "name": "Spot",
@@ -2231,7 +2361,7 @@
             "skins": []
         },
         "stainless": {
-            "branch": "",
+            "branch": "Artificer",
             "class": "Supporter",
             "icon": "",
             "name": "Stainless",
@@ -2239,7 +2369,7 @@
             "skins": []
         },
         "steward": {
-            "branch": "",
+            "branch": "Core-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Steward",
@@ -2247,7 +2377,7 @@
             "skins": []
         },
         "stormeye": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
             "icon": "",
             "name": "Stormeye",
@@ -2255,7 +2385,7 @@
             "skins": []
         },
         "surtr": {
-            "branch": "",
+            "branch": "Arts-Fighter",
             "class": "Guard",
             "icon": "",
             "name": "Surtr",
@@ -2263,7 +2393,7 @@
             "skins": []
         },
         "sussurro": {
-            "branch": "",
+            "branch": "Medic",
             "class": "Medic",
             "icon": "",
             "name": "Sussurro",
@@ -2271,7 +2401,7 @@
             "skins": []
         },
         "suzuran": {
-            "branch": "",
+            "branch": "Decel-Binder",
             "class": "Supporter",
             "icon": "",
             "name": "Suzuran",
@@ -2279,7 +2409,7 @@
             "skins": []
         },
         "swire": {
-            "branch": "",
+            "branch": "Instructor",
             "class": "Guard",
             "icon": "",
             "name": "Swire",
@@ -2287,7 +2417,7 @@
             "skins": []
         },
         "tachanka": {
-            "branch": "",
+            "branch": "Swordmaster",
             "class": "Guard",
             "icon": "",
             "name": "Tachanka",
@@ -2295,7 +2425,7 @@
             "skins": []
         },
         "tequila": {
-            "branch": "",
+            "branch": "Liberator-Guard",
             "class": "Guard",
             "icon": "",
             "name": "Tequila",
@@ -2303,31 +2433,31 @@
             "skins": []
         },
         "terra_research_commission": {
-            "branch": "",
+            "branch": "Flinger",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_4077_palico.png",
             "name": "Terra Research Commission",
             "rarity": 1,
             "skins": []
         },
         "texas": {
-            "branch": "",
+            "branch": "Pioneer",
             "class": "Vanguard",
-            "icon": "",
+            "icon": "avatars/char_102_texas.png",
             "name": "Texas",
             "rarity": 5,
             "skins": []
         },
         "texas_the_omertosa": {
-            "branch": "",
+            "branch": "Executor",
             "class": "Specialist",
-            "icon": "",
+            "icon": "avatars/char_1028_texas2.png",
             "name": "Texas the Omertosa",
             "rarity": 6,
             "skins": []
         },
         "thorns": {
-            "branch": "",
+            "branch": "Lord",
             "class": "Guard",
             "icon": "",
             "name": "Thorns",
@@ -2335,7 +2465,7 @@
             "skins": []
         },
         "thrm-ex": {
-            "branch": "",
+            "branch": "Executor",
             "class": "Specialist",
             "icon": "",
             "name": "THRM-EX",
@@ -2343,7 +2473,7 @@
             "skins": []
         },
         "toddifons": {
-            "branch": "",
+            "branch": "Besieger",
             "class": "Sniper",
             "icon": "",
             "name": "Toddifons",
@@ -2351,7 +2481,7 @@
             "skins": []
         },
         "tomimi": {
-            "branch": "",
+            "branch": "Core-Caster",
             "class": "Caster",
             "icon": "",
             "name": "Tomimi",
@@ -2359,7 +2489,7 @@
             "skins": []
         },
         "totter": {
-            "branch": "",
+            "branch": "Besieger",
             "class": "Sniper",
             "icon": "",
             "name": "Totter",
@@ -2367,7 +2497,7 @@
             "skins": []
         },
         "touch": {
-            "branch": "",
+            "branch": "Medic",
             "class": "Medic",
             "icon": "",
             "name": "Touch",
@@ -2375,7 +2505,7 @@
             "skins": []
         },
         "tsukinogi": {
-            "branch": "",
+            "branch": "Abjurer",
             "class": "Supporter",
             "icon": "",
             "name": "Tsukinogi",
@@ -2383,7 +2513,7 @@
             "skins": []
         },
         "tuye": {
-            "branch": "",
+            "branch": "Medic",
             "class": "Medic",
             "icon": "",
             "name": "Tuye",
@@ -2391,7 +2521,7 @@
             "skins": []
         },
         "utage": {
-            "branch": "",
+            "branch": "Musha",
             "class": "Guard",
             "icon": "",
             "name": "Utage",
@@ -2399,7 +2529,7 @@
             "skins": []
         },
         "vanilla": {
-            "branch": "",
+            "branch": "Pioneer",
             "class": "Vanguard",
             "icon": "",
             "name": "Vanilla",
@@ -2407,7 +2537,7 @@
             "skins": []
         },
         "vermeil": {
-            "branch": "",
+            "branch": "Marksman",
             "class": "Sniper",
             "icon": "",
             "name": "Vermeil",
@@ -2415,15 +2545,15 @@
             "skins": []
         },
         "vigil": {
-            "branch": "",
+            "branch": "Tactician",
             "class": "Vanguard",
-            "icon": "",
+            "icon": "avatars/char_427_vigil.png",
             "name": "Vigil",
             "rarity": 6,
             "skins": []
         },
         "vigna": {
-            "branch": "",
+            "branch": "Charger",
             "class": "Vanguard",
             "icon": "",
             "name": "Vigna",
@@ -2431,7 +2561,7 @@
             "skins": []
         },
         "vulcan": {
-            "branch": "",
+            "branch": "Juggernaut",
             "class": "Defender",
             "icon": "",
             "name": "Vulcan",
@@ -2439,15 +2569,15 @@
             "skins": []
         },
         "w": {
-            "branch": "",
+            "branch": "Artilleryman",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_113_cqbw.png",
             "name": "W",
             "rarity": 6,
             "skins": []
         },
         "waai_fu": {
-            "branch": "",
+            "branch": "Executor",
             "class": "Specialist",
             "icon": "",
             "name": "Waai Fu",
@@ -2455,7 +2585,7 @@
             "skins": []
         },
         "warfarin": {
-            "branch": "",
+            "branch": "Medic",
             "class": "Medic",
             "icon": "",
             "name": "Warfarin",
@@ -2463,7 +2593,7 @@
             "skins": []
         },
         "weedy": {
-            "branch": "",
+            "branch": "Push-Stroker",
             "class": "Specialist",
             "icon": "",
             "name": "Weedy",
@@ -2471,7 +2601,7 @@
             "skins": []
         },
         "whislash": {
-            "branch": "",
+            "branch": "Instructor",
             "class": "Guard",
             "icon": "",
             "name": "Whislash",
@@ -2479,7 +2609,7 @@
             "skins": []
         },
         "whisperain": {
-            "branch": "",
+            "branch": "Therapist",
             "class": "Medic",
             "icon": "",
             "name": "Whisperain",
@@ -2487,7 +2617,7 @@
             "skins": []
         },
         "wild_mane": {
-            "branch": "",
+            "branch": "Charger",
             "class": "Vanguard",
             "icon": "",
             "name": "Wild Mane",
@@ -2495,15 +2625,15 @@
             "skins": []
         },
         "wind_chimes": {
-            "branch": "",
+            "branch": "Crusher",
             "class": "Guard",
-            "icon": "",
+            "icon": "avatars/char_4083_chimes.png",
             "name": "Wind Chimes",
             "rarity": 5,
             "skins": []
         },
         "windflit": {
-            "branch": "",
+            "branch": "Artificer",
             "class": "Supporter",
             "icon": "",
             "name": "Windflit",
@@ -2511,7 +2641,7 @@
             "skins": []
         },
         "yato": {
-            "branch": "",
+            "branch": "Pioneer",
             "class": "Vanguard",
             "icon": "",
             "name": "Yato",
@@ -2519,9 +2649,9 @@
             "skins": []
         },
         "zima": {
-            "branch": "",
+            "branch": "Pioneer",
             "class": "Vanguard",
-            "icon": "",
+            "icon": "avatars/char_115_headbr.png",
             "name": "Zima",
             "rarity": 5,
             "skins": []

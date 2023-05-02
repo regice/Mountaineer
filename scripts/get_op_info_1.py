@@ -26,16 +26,15 @@ for op in op_rows:
     # Also replace ', (, and ) in operator names
     op_key = op_name.lower().replace(" ", "_").replace("'", "").replace("(", "").replace(")", "")
 
-    # TODO : modify this so that it doesn't wipe other keys such as skin and icon file path every time this script is run
-    op_data["operators"][op_key] = {
-        "name": op_name,
-        "rarity": op_rarity,
-        "class": op_class,
-        "branch": op_branches[op_branch]
-    }
-
     if op_key not in op_data["operators"].keys():
-        pass
+        op_data["operators"][op_key] = {
+            "name": op_name,
+            "rarity": op_rarity,
+            "class": op_class,
+            "branch": op_branches[op_branch],
+            "skins": [],
+            "icon": ""
+        }
 
 with open("output/arknights_data.json", "w") as arknights_data_json:
     json.dump(op_data, arknights_data_json, indent=4, sort_keys=True)

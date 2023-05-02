@@ -37,7 +37,8 @@
               <h1 class="event-subsection-heading">New Operators</h1>
               <span class="new-operator-listing">
                 {% for new_op in event["new_operators"] %}
-                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+                {% set op_filepath = game['operators'][new_op]['icon'] %}
+                <img src="{{ url_for('static', filename=op_filepath) }}" alt="{{ game['operators'][new_op]['name'] }}" class="listing-img">
                 {% endfor %}
               </span>
             </div>
@@ -46,7 +47,8 @@
               <span class="new-operator-listing">
                 <h1 class="event-subsection-heading">Recruitment Update</h1>
                 {% for op in event["headhunting"]["recruitment"] %}
-                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+                {% set op_filepath = game['operators'][op]['icon'] %}
+                <img src="{{ url_for('static', filename=op_filepath) }}" alt="{{ game['operators'][op]['name'] }}" class="listing-img">
                 {% endfor %}
               </span>
             </div>
@@ -59,21 +61,36 @@
             <span class="rewards-listing">
               <h2 class="event-subsection-heading">T3 Drops</h2>
               {% for mat in event["rewards"]["t3_drops"] %}
-                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% set mat_filepath = "items/" ~ game['items'][mat]['img_path'] ~ ".png" %}
+              {% set item_bg = "material/bg/item-" ~ game['items'][mat]['tier'] ~ ".png" %}
+              <div class="listing-item" style="background-image: url({{ url_for('static', filename=item_bg) }})">
+                <img src="{{ url_for('static', filename=mat_filepath) }}" alt="{{ game['items'][mat]['name'] }}" class="listing-img">
+              </div>
               {% endfor %}
+
             </span>
             <!--      Store Totals      -->
             <span class="rewards-listing">
               <h2 class="event-subsection-heading">Store Totals</h2>
               {% for item in event["rewards"]["store_totals"] %}
-                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% set item_filepath = "items/" ~ game['items'][item]['img_path'] ~ ".png" %}
+              {% set item_bg = "material/bg/item-" ~ game['items'][item]['tier'] ~ ".png" %}
+              <div class="listing-item" style="background-image: url({{ url_for('static', filename=item_bg) }})">
+                <img src="{{ url_for('static', filename=item_filepath) }}" alt="{{ game['items'][item]['name'] }}" class="listing-img">
+                <div class="item-quantity-text">{{ event["rewards"]["store_totals"][item] }}</div>
+              </div>
               {% endfor %}
             </span>
             <!--      Task Rewards      -->
             <span class="rewards-listing">
               <h2 class="event-subsection-heading">Task Rewards</h2>
               {% for item in event["rewards"]["task_rewards"] %}
-                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% set item_filepath = "items/" ~ game['items'][item]['img_path'] ~ ".png" %}
+              {% set item_bg = "material/bg/item-" ~ game['items'][item]['tier'] ~ ".png" %}
+              <div class="listing-item" style="background-image: url({{ url_for('static', filename=item_bg) }})">
+                <img src="{{ url_for('static', filename=item_filepath) }}" alt="{{ game['items'][item]['name'] }}" class="listing-img">
+                <div class="item-quantity-text">{{ event["rewards"]["task_rewards"][item] }}</div>
+              </div>
               {% endfor %}
             </span>
           </div>
@@ -86,22 +103,25 @@
             <!--      First Modules      -->
             <div class="col-lg-4 misc-listing">
               <h3>New Modules</h3>
-              {% for item in event["operator_modules"]["first"] %}
-                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% for op in event["operator_modules"]["first"] %}
+              {% set op_filepath = game['operators'][op]['icon'] %}
+                <img src="{{ url_for('static', filename=op_filepath) }}" alt="{{ game['operators'][op]['name'] }}" class="listing-img">
               {% endfor %}
             </div>
             <!--      Second Modules      -->
             <div class="col-lg-4 misc-listing">
               <h3>Second Modules</h3>
-              {% for item in event["operator_modules"]["second"] %}
-                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% for op in event["operator_modules"]["second"] %}
+              {% set op_filepath = game['operators'][op]['icon'] %}
+                <img src="{{ url_for('static', filename=op_filepath) }}" alt="{{ game['operators'][op]['name'] }}" class="listing-img">
               {% endfor %}
             </div>
             <!--      New Operators' Modules      -->
             <div class="col-lg-4 misc-listing">
               <h3>New Operators</h3>
-              {% for item in event["operator_modules"]["new_operators"] %}
-                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% for op in event["operator_modules"]["new_operators"] %}
+              {% set op_filepath = game['operators'][op]['icon'] %}
+                <img src="{{ url_for('static', filename=op_filepath) }}" alt="{{ game['operators'][op]['name'] }}" class="listing-img">
               {% endfor %}
             </div>
             <!--      Operator Skins      -->
@@ -131,7 +151,8 @@
             <span class="misc-listing">
               <h2 class="event-subsection-heading">Operator Records & Paradox Simulations</h2>
               {% for op in event["operator_records_paradox_simulations"] %}
-                <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="" class="listing-img">
+              {% set op_filepath = game['operators'][op]['icon'] %}
+                <img src="{{ url_for('static', filename=op_filepath) }}" alt="{{ game['operators'][op]['name'] }}" class="listing-img">
               {% endfor %}
             </span>
           </div>

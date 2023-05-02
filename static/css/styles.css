@@ -31,7 +31,37 @@ h1 {
     text-align: center;
 }
 
-.listing-img {
+.listing-item {
+    display: inline-block;
     width: 50px;
+    height: 50px;
+    padding: 5px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    text-align: center;
+    vertical-align: center;
+    position: relative;
+}
+
+.listing-img {
+    width: 40px;
+    height: 40px;
     margin: 1px;
+    vertical-align: middle;
+    position: relative;
+    box-sizing: inherit;
+    object-fit: contain;
+}
+
+.item-quantity-text {
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    padding: 1px 3px;
+    color: #F3F2ED;
+    text-align: center;
+    font-size: 8pt;
+    display: inline-block;
+    background-color: rgba(0,0,0,0.5);
 }
