@@ -27,12 +27,15 @@
       <div class="row event-container">
         <!--    Event Info    -->
         <div class="col-lg-3 event-info">
-          <img src="{{ url_for('static', filename='test/mountain_sticker_01.png') }}" alt="">
+          {% set event_banner_filepath = "banners/" ~ event["event_data"]["event_banner"] ~ ".png" %}
+          <img class="event-banner-img" src="{{ url_for('static', filename=event_banner_filepath) }}" alt="">
           <h1>{{ event["event_name"] }}</h1>
         </div>
         <div class="col-lg-9">
           <!--    New Operators    -->
+          {% if event["new_operators"] | length > 0 or event["headhunting"]["recruitment"] | length > 0 %}
           <div class="row border event-section rounded">
+            {% if event["new_operators"] | length > 0 %}
             <div class="col-lg-6">
               <h1 class="event-subsection-heading">New Operators</h1>
               <span class="new-operator-listing">
@@ -42,7 +45,9 @@
                 {% endfor %}
               </span>
             </div>
+            {% endif %}
             <!--      Recruitment Update      -->
+            {% if event["headhunting"]["recruitment"] | length > 0 %}
             <div class="col-lg-6">
               <span class="new-operator-listing">
                 <h1 class="event-subsection-heading">Recruitment Update</h1>
@@ -52,12 +57,15 @@
                 {% endfor %}
               </span>
             </div>
+            {% endif %}
           </div>
+          {% endif %}
 
           <!--    Event Rewards    -->
           <div class="row border event-section rounded">
             <h1 class="event-section-heading">Event Rewards</h1>
             <!--      T3 Drops      -->
+            {% if event["rewards"]["t3_drops"] | length > 0 %}
             <span class="rewards-listing">
               <h2 class="event-subsection-heading">T3 Drops</h2>
               {% for mat in event["rewards"]["t3_drops"] %}
@@ -67,9 +75,10 @@
                 <img src="{{ url_for('static', filename=mat_filepath) }}" alt="{{ game['items'][mat]['name'] }}" class="listing-img">
               </div>
               {% endfor %}
-
             </span>
+            {% endif %}
             <!--      Store Totals      -->
+            {% if event["rewards"]["store_totals"] | length > 0 %}
             <span class="rewards-listing">
               <h2 class="event-subsection-heading">Store Totals</h2>
               {% for item in event["rewards"]["store_totals"] %}
@@ -81,7 +90,9 @@
               </div>
               {% endfor %}
             </span>
+            {% endif %}
             <!--      Task Rewards      -->
+            {% if event["rewards"]["task_rewards"] | length > 0 %}
             <span class="rewards-listing">
               <h2 class="event-subsection-heading">Task Rewards</h2>
               {% for item in event["rewards"]["task_rewards"] %}
@@ -93,14 +104,61 @@
               </div>
               {% endfor %}
             </span>
+            {% endif %}
+            <!--      Seasonal Store Totals      -->
+            {% if event["rewards"]["seasonal_store_totals"] | length > 0 %}
+            <span class="rewards-listing">
+              <h2 class="event-subsection-heading">Seasonal Store Totals</h2>
+              {% for item in event["rewards"]["seasonal_store_totals"] %}
+              {% set item_filepath = "items/" ~ game['items'][item]['img_path'] ~ ".png" %}
+              {% set item_bg = "material/bg/item-" ~ game['items'][item]['tier'] ~ ".png" %}
+              <div class="listing-item" style="background-image: url({{ url_for('static', filename=item_bg) }})">
+                <img src="{{ url_for('static', filename=item_filepath) }}" alt="{{ game['items'][item]['name'] }}" class="listing-img">
+                <div class="item-quantity-text">{{ event["rewards"]["seasonal_store_totals"][item] }}</div>
+              </div>
+              {% endfor %}
+            </span>
+            {% endif %}
+            <!--      Permanent Store Additions      -->
+            {% if event["rewards"]["permanent_store_additions"] | length > 0 %}
+            <span class="rewards-listing">
+              <h2 class="event-subsection-heading">Permanent Store Additions</h2>
+              {% for item in event["rewards"]["permanent_store_additions"] %}
+              {% set item_filepath = "items/" ~ game['items'][item]['img_path'] ~ ".png" %}
+              {% set item_bg = "material/bg/item-" ~ game['items'][item]['tier'] ~ ".png" %}
+              <div class="listing-item" style="background-image: url({{ url_for('static', filename=item_bg) }})">
+                <img src="{{ url_for('static', filename=item_filepath) }}" alt="{{ game['items'][item]['name'] }}" class="listing-img">
+                <div class="item-quantity-text">{{ event["rewards"]["permanent_store_additions"][item] }}</div>
+              </div>
+              {% endfor %}
+            </span>
+            {% endif %}
+            <!--      Milestone Totals      -->
+            {% if event["rewards"]["milestone_totals"] | length > 0 %}
+            <span class="rewards-listing">
+              <h2 class="event-subsection-heading">Milestone Totals</h2>
+              {% for item in event["rewards"]["milestone_totals"] %}
+              {% set item_filepath = "items/" ~ game['items'][item]['img_path'] ~ ".png" %}
+              {% set item_bg = "material/bg/item-" ~ game['items'][item]['tier'] ~ ".png" %}
+              <div class="listing-item" style="background-image: url({{ url_for('static', filename=item_bg) }})">
+                <img src="{{ url_for('static', filename=item_filepath) }}" alt="{{ game['items'][item]['name'] }}" class="listing-img">
+                <div class="item-quantity-text">{{ event["rewards"]["milestone_totals"][item] }}</div>
+              </div>
+              {% endfor %}
+            </span>
+            {% endif %}
           </div>
 
           <!--    Misc. Additions    -->
           <div class="row border event-section rounded">
             <h1 class="event-section-heading">Misc. Additions</h1>
+
             <!--      Operator Modules      -->
+            {% if event["operator_modules"]["first"] | length > 0 or event["operator_modules"]["second"] | length > 0 or event["operator_modules"]["new_operators"] | length > 0 %}
             <h2 class="event-subsection-heading">Operator Modules</h2>
+            {% endif %}
             <!--      First Modules      -->
+            {% if event["operator_modules"]["first"] | length > 0 %}
             <div class="col-lg-4 misc-listing">
               <h3>New Modules</h3>
               {% for op in event["operator_modules"]["first"] %}
@@ -108,7 +166,9 @@
                 <img src="{{ url_for('static', filename=op_filepath) }}" alt="{{ game['operators'][op]['name'] }}" class="listing-img op-img">
               {% endfor %}
             </div>
+            {% endif %}
             <!--      Second Modules      -->
+            {% if event["operator_modules"]["second"] | length > 0 %}
             <div class="col-lg-4 misc-listing">
               <h3>Second Modules</h3>
               {% for op in event["operator_modules"]["second"] %}
@@ -116,7 +176,9 @@
                 <img src="{{ url_for('static', filename=op_filepath) }}" alt="{{ game['operators'][op]['name'] }}" class="listing-img op-img">
               {% endfor %}
             </div>
+            {% endif %}
             <!--      New Operators' Modules      -->
+            {% if event["operator_modules"]["new_operators"] | length > 0 %}
             <div class="col-lg-4 misc-listing">
               <h3>New Operators</h3>
               {% for op in event["operator_modules"]["new_operators"] %}
@@ -124,9 +186,11 @@
                 <img src="{{ url_for('static', filename=op_filepath) }}" alt="{{ game['operators'][op]['name'] }}" class="listing-img op-img">
               {% endfor %}
             </div>
+            {% endif %}
             <!--      Operator Skins      -->
             <h2 class="event-subsection-heading">Operator Skins</h2>
             <!--      New Skins      -->
+            {% if event["operator_skins"]["new"] | length > 0 %}
             <div class="col-lg-4 misc-listing">
               <h3>New</h3>
               {% for key, value in event["operator_skins"]["new"].items() %}
@@ -134,7 +198,9 @@
                 <img src="{{ url_for('static', filename=skin_filepath) }}" alt="" class="listing-img op-img">
               {% endfor %}
             </div>
+            {% endif %}
             <!--      Skin Reruns      -->
+            {% if event["operator_skins"]["rerun"] | length > 0 %}
             <div class="col-lg-4 misc-listing">
               <h3>Rerun</h3>
               {% for key, value in event["operator_skins"]["rerun"].items() %}
@@ -142,7 +208,9 @@
                 <img src="{{ url_for('static', filename=skin_filepath) }}" alt="" class="listing-img op-img">
               {% endfor %}
             </div>
+            {% endif %}
             <!--      Skins Added to Fashion Review      -->
+            {% if event["operator_skins"]["fashion_review"] | length > 0 %}
             <div class="col-lg-4 misc-listing">
               <h3>Added to Fashion Review</h3>
               {% for key, value in event["operator_skins"]["fashion_review"].items() %}
@@ -150,7 +218,29 @@
                 <img src="{{ url_for('static', filename=skin_filepath) }}" alt="" class="listing-img op-img">
               {% endfor %}
             </div>
+            {% endif %}
+            <!--      Skins Added to CC Permanent Store      -->
+            {% if event["operator_skins"]["permanent_store_additions"] | length > 0 %}
+            <div class="col-lg-4 misc-listing">
+              <h3>Added to Permanent Store</h3>
+              {% for key, value in event["operator_skins"]["permanent_store_additions"].items() %}
+              {% set skin_filepath = game['operators'][key]['icon'] ~ "_" ~ skins['skins'][key][value] ~ ".png" %}
+                <img src="{{ url_for('static', filename=skin_filepath) }}" alt="" class="listing-img op-img">
+              {% endfor %}
+            </div>
+            {% endif %}
+            <!--      Skins Part of Milestone Totals      -->
+            {% if event["operator_skins"]["milestone_totals"] | length > 0 %}
+            <div class="col-lg-4 misc-listing">
+              <h3>Added to Permanent Store</h3>
+              {% for key, value in event["operator_skins"]["milestone_totals"].items() %}
+              {% set skin_filepath = game['operators'][key]['icon'] ~ "_" ~ skins['skins'][key][value] ~ ".png" %}
+                <img src="{{ url_for('static', filename=skin_filepath) }}" alt="" class="listing-img op-img">
+              {% endfor %}
+            </div>
+            {% endif %}
             <!--      Operator Records and Paradox Simulations      -->
+            {% if event["operator_records_paradox_simulations"] | length > 0 %}
             <span class="misc-listing">
               <h2 class="event-subsection-heading">Operator Records & Paradox Simulations</h2>
               {% for op in event["operator_records_paradox_simulations"] %}
@@ -158,9 +248,11 @@
                 <img src="{{ url_for('static', filename=op_filepath) }}" alt="{{ game['operators'][op]['name'] }}" class="listing-img op-img">
               {% endfor %}
             </span>
+            {% endif %}
           </div>
         </div>
       </div>
+      <hr class="event-separator">
       {% endfor %}
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>

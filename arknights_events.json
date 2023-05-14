@@ -1,12 +1,14 @@
 [
   {
-    "event_name": "Il Siracusano",
+    "event_name": "Event Name [Template]",
     "event_data": {
       "event_duration": {
         "start": null,
-        "end": null
+        "end": null,
+        "CN_start": "2022-11-01",
+        "CN_end": "2022-11-22"
       },
-      "event_banner": "FILE_PATH_HERE"
+      "event_banner": "test"
     },
     "new_operators": [
       "texas_the_omertosa",
@@ -82,7 +84,23 @@
         "crystalline_circuit": 1,
         "rma70_24": 1,
         "oriron_block": 1
-      }
+      },
+      "seasonal_store_totals": {
+        "polymerization_preparation": 2,
+        "module_data_block": 1,
+        "keton_colloid": 5,
+        "rma70_24": 5,
+        "white_horse_kohl": 15,
+        "coagulating_gel": 15,
+        "crystalline_component": 15,
+        "lmd": 60000,
+        "tactical_battle_record": 60,
+        "furniture_part": 400
+      },
+      "permanent_store_additions": {
+        "royal_supporter_token": 4
+      },
+      "milestone_totals": {}
     },
     "operator_modules": {
       "first": [
@@ -123,7 +141,9 @@
         "mostima": "spellbreaker",
         "suzuran": "lostlands_flowering",
         "astesia": "starseeker"
-      }
+      },
+      "permanent_store_additions": {},
+      "milestone_totals": {}
     },
     "operator_records_paradox_simulations": [
       "elysium",
@@ -133,5 +153,213 @@
       "vigil",
       "wild_mane"
     ]
+  },
+  {
+    "event_name": "Il Siracusano",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2022-11-01",
+        "CN_end": "2022-11-22"
+      },
+      "event_banner": "CN_Il_Siracusano_banner"
+    },
+    "new_operators": [
+      "texas_the_omertosa",
+      "penance",
+      "vigil",
+      "lunacub",
+      "quartz",
+      "qanipalaat"
+    ],
+    "headhunting": {
+      "banner": [
+        "texas_the_omertosa",
+        "penance",
+        "lunacub"
+      ],
+      "recruitment": [
+        "weedy",
+        "elysium",
+        "tsukinogi",
+        "asbestos"
+      ]
+    },
+    "rewards": {
+      "originite_prime": 41,
+      "t3_drops": [
+        "incandescent_alloy",
+        "compound_cutting_fluid",
+        "orirock_cluster"
+      ],
+      "store_totals": {
+        "headhunting_permit": 3,
+        "module_data_block": 3,
+        "d32_steel": 5,
+        "bipolar_nanoflake": 5,
+        "optimized_device": 10,
+        "crystalline_circuit": 10,
+        "oriron_block": 10,
+        "rma70_24": 10,
+        "grindstone_pentahydrate": 10,
+        "refined_solvent": 10,
+        "data_supplement_instrument": 10,
+        "data_supplement_stick": 60,
+        "integrated_device": 15,
+        "grindstone": 15,
+        "semi-synthetic_solvent": 15,
+        "sugar_pack": 15,
+        "lmd": 600000,
+        "strategic_battle_record": 60,
+        "tactical_battle_record": 100,
+        "frontline_battle_record": 300,
+        "skill_summary_-_3": 25,
+        "skill_summary_-_2": 50,
+        "orirock_cube": 40,
+        "sugar": 30,
+        "polyester": 30,
+        "oriron": 25,
+        "polyketon": 25,
+        "device": 20,
+        "vanguard_chip": 5,
+        "furniture_part": 2000
+      },
+      "task_rewards": {
+        "lmd": 180000,
+        "integrated_device": 8,
+        "skill_summary_-_3": 30,
+        "strategic_battle_record": 45,
+        "semi-synthetic_solvent": 8,
+        "optimized_device": 1,
+        "chip_catalyst": 2,
+        "sugar_pack": 8,
+        "grindstone": 8,
+        "skill_summary_-_2": 100,
+        "crystalline_circuit": 1,
+        "rma70_24": 1,
+        "oriron_block": 1
+      },
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_modules": {
+      "first": [
+        "zima",
+        "scavenger",
+        "courier",
+        "chiave",
+        "texas",
+        "flametail",
+        "saga",
+        "siege"
+      ],
+      "second": [
+        "hoshiguma",
+        "schwarz"
+      ],
+      "new_operators": [
+        "lunacub",
+        "texas_the_omertosa"
+      ]
+    },
+    "operator_skins": {
+      "new": {
+        "passenger": "dream_in_a_moment",
+        "rosmontis": "become_anew",
+        "nearl_the_radiant_knight": "relight",
+        "honeyberry": "wilderness_behind",
+        "sora": "melodiosa"
+      },
+      "rerun": {
+        "pallas": "heritage",
+        "rosa_poca": "masterpiece",
+        "andreana": "silent_arrow",
+        "texas": "willpower",
+        "dobermann": "lieutenant"
+      },
+      "fashion_review": {
+        "mostima": "spellbreaker",
+        "suzuran": "lostlands_flowering",
+        "astesia": "starseeker"
+      },
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": [
+      "elysium",
+      "meteorite",
+      "mountain",
+      "spot",
+      "vigil",
+      "wild_mane"
+    ]
+  },
+  {
+    "event_name": "Contingency Contract #11: Operation Fake Waves",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2022-11-15",
+        "CN_end": "2022-11-29"
+      },
+      "event_banner": "CN_Contingency_Contract_Fake_Waves_banner"
+    },
+    "new_operators": [],
+    "headhunting": {
+      "banner": [
+        "suzuran",
+        "eunectes",
+        "fartooth",
+        "goldenglow",
+        "sora",
+        "sesa",
+        "ayerscarpe",
+        "ashlock",
+        "corroserum",
+        "kazemaru"
+      ],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 0,
+      "t3_drops": [],
+      "store_totals": {},
+      "task_rewards": {},
+      "seasonal_store_totals": {
+        "polymerization_preparation": 2,
+        "module_data_block": 1,
+        "keton_colloid": 5,
+        "rma70_24": 5,
+        "white_horse_kohl": 15,
+        "coagulating_gel": 15,
+        "crystalline_component": 15,
+        "lmd": 60000,
+        "tactical_battle_record": 60,
+        "furniture_part": 400
+      },
+      "permanent_store_additions": {
+        "royal_supporter_token": 4
+      },
+      "milestone_totals": {}
+    },
+    "operator_modules": {
+      "first": [],
+      "second": [],
+      "new_operators": []
+    },
+    "operator_skins": {
+      "new": {},
+      "rerun": {},
+      "fashion_review": {},
+      "permanent_store_additions": {
+        "aciddrop": "afternoon_tea_time",
+        "greyy": "eggcellent_craftsman"
+      },
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": []
   }
 ]

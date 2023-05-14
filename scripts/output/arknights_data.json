@@ -265,6 +265,46 @@
             "name": "RMA70-24",
             "tier": 4
         },
+        "royal_caster_token": {
+            "img_path": "tier6_caster",
+            "name": "Royal Caster Token",
+            "tier": 6
+        },
+        "royal_defender_token": {
+            "img_path": "tier6_tank",
+            "name": "Royal Defender Token",
+            "tier": 6
+        },
+        "royal_guard_token": {
+            "img_path": "tier6_guard",
+            "name": "Royal Guard Token",
+            "tier": 6
+        },
+        "royal_medic_token": {
+            "img_path": "tier6_medic",
+            "name": "Royal Medic Token",
+            "tier": 6
+        },
+        "royal_sniper_token": {
+            "img_path": "tier6_sniper",
+            "name": "Royal Sniper Token",
+            "tier": 6
+        },
+        "royal_specialist_token": {
+            "img_path": "tier6_special",
+            "name": "Royal Specialist Token",
+            "tier": 6
+        },
+        "royal_supporter_token": {
+            "img_path": "tier6_supporter",
+            "name": "Royal Supporter Token",
+            "tier": 6
+        },
+        "royal_vanguard_token": {
+            "img_path": "tier6_pioneer",
+            "name": "Royal Vanguard Token",
+            "tier": 6
+        },
         "semi-synthetic_solvent": {
             "img_path": "MTL_SL_SS",
             "name": "Semi-Synthetic Solvent",

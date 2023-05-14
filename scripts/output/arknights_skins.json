@@ -1,0 +1,648 @@
+{
+    "skins": {
+        "aak": {
+            "doctor_of_faces": "nian#4",
+            "healing_hand,_evil_heart": "nian#5"
+        },
+        "aciddrop": {
+            "afternoon_tea_time": "whirlwind#4"
+        },
+        "adnachiel": {
+            "traceless_walker": "sale#5"
+        },
+        "akafuyu": {
+            "temperament": "epoque#15"
+        },
+        "amiya": {
+            "fresh_fastener": "epoque#4",
+            "newsgirl": "winter#1",
+            "\u64ad\u79cd\u8005": "test#1"
+        },
+        "andreana": {
+            "silent_arrow": "epoque#12"
+        },
+        "angelina": {
+            "distinguished_visitor": "boc#1",
+            "summer_flower_fa017": "summer#5"
+        },
+        "ansel": {
+            "casual_vacation_hdm06": "summer#1"
+        },
+        "aosta": {
+            "light_gun_adjuster": "game#2"
+        },
+        "april": {
+            "faraway_gaze": "wild#3"
+        },
+        "archetto": {
+            "publicity_strategy": "shining#1"
+        },
+        "arene": {
+            "casual": "winter#2"
+        },
+        "asbestos": {
+            "glen_sonata": "whirlwind#3"
+        },
+        "ash": {
+            "ranger": "rainbow6#1"
+        },
+        "astesia": {
+            "fantastic_crafts": "epoque#23",
+            "frlibe_on_the_palace": "shining#1",
+            "starseeker": "epoque#5"
+        },
+        "aurora": {
+            "polar_catcher": "boc#4"
+        },
+        "ayerscarpe": {
+            "tested_one": "boc#3"
+        },
+        "bagpipe": {
+            "queen,_no.1": "race#1"
+        },
+        "beagle": {
+            "dreadnaught": "boc#1"
+        },
+        "beanstalk": {
+            "gift_uncompleted": "snow#4"
+        },
+        "beehunter": {
+            "honey_pilferer": "kitchen#1"
+        },
+        "beeswax": {
+            "wei\u00dfer_sand": "epoque#9"
+        },
+        "bibeak": {
+            "soft_wool": "winter#2"
+        },
+        "blacknight": {
+            "fragrance_from_the_branches": "nian#8",
+            "summer_flower_fa641": "summer#8"
+        },
+        "blaze": {
+            "burst_feline": "as#1"
+        },
+        "blemishine": {
+            "moon_catastrborn": "witch#2"
+        },
+        "blue_poison": {
+            "shoal_beat": "marthe#3"
+        },
+        "broca": {
+            "rest_between_sets": "marthe#4"
+        },
+        "cantabile": {
+            "illumination_that_of_daylights": "nian#9"
+        },
+        "cardigan": {
+            "cheerful_guardian": "snow#1"
+        },
+        "carnelian": {
+            "hohenlohe_chillysand": "snow#3",
+            "shimmering_dew_sd08": "summer#8"
+        },
+        "castle-3": {
+            "sum019.ver": "summer#1"
+        },
+        "ceobe": {
+            "summer_flowers_fa333": "summer#4",
+            "unfettered": "whirlwind#2"
+        },
+        "chen": {
+            "ageless_afterglow": "nian#2"
+        },
+        "chen_the_holungday": {
+            "\u4e07\u91cd\u5c71": "boc#6"
+        },
+        "click": {
+            "grave_thief": "witch#2"
+        },
+        "cliffheart": {
+            "highlands_visitor": "wwf#1",
+            "lone_climber": "wild#1"
+        },
+        "conviction": {
+            "your_superconvicting_friend": "game#1"
+        },
+        "courier": {
+            "new_routes": "winter#1",
+            "speechless_sound": "as#1"
+        },
+        "croissant": {
+            "seeker_sk03": "summer#4",
+            "seven_am": "kfc#1"
+        },
+        "cuora": {
+            "quadrangle": "wild#1"
+        },
+        "deepcolor": {
+            "melodic_portrayal": "winter#3"
+        },
+        "dobermann": {
+            "lieutenant": "epoque#7"
+        },
+        "dusk": {
+            "everything_is_a_miracle": "nian#7"
+        },
+        "ebenholz": {
+            "\u53d8\u594f": "boc#6"
+        },
+        "elysium": {
+            "shimmering_dew_sdm11": "summer#9",
+            "snowy_echo": "snow#2"
+        },
+        "enforcer": {
+            "paper_wing": "epoque#20"
+        },
+        "erato": {
+            "untold_stories": "snow#5"
+        },
+        "ethan": {
+            "infiltrator": "epoque#7"
+        },
+        "eunectes": {
+            "forgemaster": "boc#3"
+        },
+        "executor": {
+            "titleless_code": "boc#1"
+        },
+        "exusiai": {
+            "city_rider": "kfc#1",
+            "midnight_delivery": "sale#8",
+            "wild_operation": "wild#1"
+        },
+        "eyjafjalla": {
+            "summer_flower_fa018": "summer#5"
+        },
+        "fang": {
+            "cruciata": "winter#1"
+        },
+        "feater": {
+            "dojo_star": "marthe#1",
+            "gourmet": "nian#7"
+        },
+        "firewatch": {
+            "snowywatch": "snow#2",
+            "wilted_cypress": "wild#2"
+        },
+        "flamebringer": {
+            "casual_vacation_hdm04": "summer#8"
+        },
+        "flametail": {
+            "sport_for_all": "game#2"
+        },
+        "flint": {
+            "gorgeous_flower": "boc#3"
+        },
+        "folinic": {
+            "lasting_arrowroot": "wild#4"
+        },
+        "frostleaf": {
+            "breaking_the_ice": "boc#4"
+        },
+        "gavial": {
+            "combat_medic": "epoque#2"
+        },
+        "gitano": {
+            "unknown_journey": "epoque#2"
+        },
+        "gladiia": {
+            "return": "boc#5"
+        },
+        "glaucus": {
+            "exterminator_in_the_square": "ghost#1"
+        },
+        "gnosis": {
+            "forerunner": "boc#4"
+        },
+        "goldenglow": {
+            "attendant_of_the_bright_night": "snow#5"
+        },
+        "grani": {
+            "miraculous_moment": "epoque#6"
+        },
+        "gravel": {
+            "modeling_night": "winter#2"
+        },
+        "greythroat": {
+            "homecoming": "boc#1"
+        },
+        "greyy": {
+            "eggcellent_craftsman": "epoque#8"
+        },
+        "greyy_the_lightningbearer": {
+            "prince_after_the_performance": "snow#5"
+        },
+        "gummy": {
+            "summer_flowers_fa011": "summer#1"
+        },
+        "harmonie": {
+            "invitation": "epoque#24"
+        },
+        "heavyrain": {
+            "tranquil_moss": "wild#6"
+        },
+        "heidi": {
+            "a_thousand_correspondences": "epoque#24"
+        },
+        "hellagur": {
+            "octopath_illusion": "boc#2"
+        },
+        "hibiscus": {
+            "night_watcher": "nian#1"
+        },
+        "honeyberry": {
+            "wilderness_behind": "epoque#17"
+        },
+        "horn": {
+            "to_effloresce_whitely": "epoque#24"
+        },
+        "hoshiguma": {
+            "ronin_huntress": "nian#3"
+        },
+        "hung": {
+            "just_a_driver": "nian#4"
+        },
+        "ifrit": {
+            "children's_party": "kfc#1",
+            "sunburn_ss.sp": "summer#1"
+        },
+        "indigo": {
+            "serene_day": "nian#7"
+        },
+        "indra": {
+            "valiant_general": "striker#2"
+        },
+        "irene": {
+            "\u98de\u7fbd": "ambienceSynethesia#3"
+        },
+        "iris": {
+            "mirror_visitor": "witch#3"
+        },
+        "istina": {
+            "bibliosmia": "kitchen#1"
+        },
+        "jackie": {
+            "take_a_leap": "whirlwind#2"
+        },
+        "jaye": {
+            "beach_guard_gt002": "summer#6"
+        },
+        "jessica": {
+            "ash": "wild#2",
+            "clivia": "nian#2",
+            "iron_block": "sweep#1"
+        },
+        "kafka": {
+            "cardboard_fairy": "snow#3"
+        },
+        "kaltsit": {
+            "\u6b8b\u4f59": "boc#6"
+        },
+        "kazemaru": {
+            "like_illusion": "witch#3"
+        },
+        "kirara": {
+            "trendsetting_player": "game#2"
+        },
+        "kjera": {
+            "ingenious_servant": "epoque#18"
+        },
+        "kroos": {
+            "the_mag": "witch#1"
+        },
+        "kroos_the_keen_glint": {
+            "along_the_corridor": "nian#8"
+        },
+        "la_pluma": {
+            "summer_flowers_fa210": "summer#9"
+        },
+        "lancet-2": {
+            "shore_rescue_modification": "boc#4"
+        },
+        "lappland": {
+            "refined_horrormare": "boc#1"
+        },
+        "lava_the_purgatory": {
+            "dusk_wisteria": "nian#6"
+        },
+        "lee": {
+            "trust_your_eyes": "witch#3"
+        },
+        "leonhardt": {
+            "finder_in_the_rough": "wild#3",
+            "hope_cruise": "snow#3"
+        },
+        "ling": {
+            "it_does_wash_the_strings": "nian#9"
+        },
+        "liskarm": {
+            "overload": "striker#1",
+            "spring_vouivre": "nian#2"
+        },
+        "lumen": {
+            "\u707f\u6d77\u6d6e\u68a6": "ambienceSynethesia#3"
+        },
+        "magallan": {
+            "shaved-ice_memories": "kitchen#1"
+        },
+        "manticore": {
+            "invisible_dirge": "epoque#4",
+            "under_a_veil": "epoque#19"
+        },
+        "matterhorn": {
+            "beach_guard_gt.001": "summer#1"
+        },
+        "mayer": {
+            "visionblazer_in_the_courtyard": "ghost#1"
+        },
+        "melantha": {
+            "letters_from_wessex": "eqoque#1"
+        },
+        "meteor": {
+            "bard's_holiday": "epoque#10"
+        },
+        "meteorite": {
+            "graphite": "sweep#1"
+        },
+        "midnight": {
+            "seventh_night's_awakened": "boc#1"
+        },
+        "mint": {
+            "tsukiyoi": "epoque#22"
+        },
+        "mizuki": {
+            "summer_feast": "sale#7"
+        },
+        "mostima": {
+            "spellbreaker": "epoque#5"
+        },
+        "mountain": {
+            "book_reader": "epoque#15",
+            "dark_cloud": "boc#3"
+        },
+        "mousse": {
+            "campfire_cooking_smoke": "wild#7"
+        },
+        "mr._nothing": {
+            "pale_rising_moon": "nian#7"
+        },
+        "mudrock": {
+            "obsidian": "ambienceSynethesia#2",
+            "silent_night_dn06": "summer#6"
+        },
+        "mulberry": {
+            "plant_crude_drug": "epoque#14",
+            "reflection_that_of_the_moons": "nian#9"
+        },
+        "myrrh": {
+            "bitter_herbs": "wild#1"
+        },
+        "myrtle": {
+            "light_gold_celebration": "epoque#12"
+        },
+        "nearl": {
+            "shimmering_dew_sd01": "summer#2"
+        },
+        "nearl_the_radiant_knight": {
+            "relight": "epoque#17"
+        },
+        "nian": {
+            "unfettered_freedom": "nian#4"
+        },
+        "nightingale": {
+            "an_elegy": "witch#1"
+        },
+        "nightmare": {
+            "light_and_shadow": "epoque#5"
+        },
+        "op_key": {
+            "skin_name": "img_path"
+        },
+        "op_key2": {
+            "skin_name": "img_path"
+        },
+        "orchid": {
+            "\u8863\u7f15\u5f80\u6614": "boc#6"
+        },
+        "pallas": {
+            "a_drip_of_orea_and_potamus": "epoque#19",
+            "heritage": "epoque#12"
+        },
+        "passenger": {
+            "dream_in_a_moment": "epoque#17"
+        },
+        "perfumer": {
+            "leisurely_afternoon": "epoque#9",
+            "species_plantarum": "daily#1"
+        },
+        "phantom": {
+            "dream_within_a_dreammare": "ghost#1",
+            "focus": "sale#4"
+        },
+        "pinecone": {
+            "sing_a_song": "shining#1"
+        },
+        "platinum": {
+            "shimmering_dew_sd05": "summer#3"
+        },
+        "podenco": {
+            "wake_up_from_a_nap": "epoque#9"
+        },
+        "poz\u00ebmka": {
+            "snowy_plains_in_words": "wild#7"
+        },
+        "pramanix": {
+            "caster's_frost": "snow#1"
+        },
+        "projekt_red": {
+            "light_breeze_lb01": "summer#6"
+        },
+        "provence": {
+            "casual_vacation_hd08": "summer#3",
+            "wasteland_walker": "wild#5"
+        },
+        "proviso": {
+            "high_autumn": "wild#7"
+        },
+        "ptilopsis": {
+            "serenity": "epoque#3"
+        },
+        "pudding": {
+            "fire_tree_spirit": "snow#5"
+        },
+        "quercus": {
+            "path_not_leads_to_home": "epoque#17"
+        },
+        "reed": {
+            "emerald_holiday": "ambienceSynethesia#2"
+        },
+        "roberta": {
+            "summer_flowers_fa374": "summer#10",
+            "\u5f85\u7ed8\u7684\u4f5c\u54c1": "ambienceSynethesia#3"
+        },
+        "robin": {
+            "gift_of_wild": "epoque#13"
+        },
+        "rockrock": {
+            "before_singing": "lxh#1"
+        },
+        "rope": {
+            "imp's_house": "witch#1",
+            "summer_flowers_fa008": "summer#2"
+        },
+        "rosa_poca": {
+            "masterpiece": "epoque#12"
+        },
+        "rosmontis": {
+            "become_anew": "epoque#17"
+        },
+        "saileach": {
+            "appreciate_fragrance": "epoque#14"
+        },
+        "saria": {
+            "stronghold": "boc#1",
+            "the_law": "test#1"
+        },
+        "scavenger": {
+            "survive": "striker#2"
+        },
+        "scene": {
+            "betsushi": "epoque#22"
+        },
+        "schwarz": {
+            "presents": "snow#1",
+            "skyline": "striker#1"
+        },
+        "shamare": {
+            "echo_of_the_horrorlair": "witch#2"
+        },
+        "shaw": {
+            "cleansweeper_in_the_castle": "ghost#1"
+        },
+        "shining": {
+            "silent_night_dn02": "summer#1"
+        },
+        "shirayuki": {
+            "wind_of_breaking_blade": "boc#2"
+        },
+        "sideroca": {
+            "light_breeze_lb03": "summer#6"
+        },
+        "siege": {
+            "city_destroyer": "striker#2",
+            "legacy": "wild#2"
+        },
+        "silence": {
+            "frosted_breath": "winter#2",
+            "lacquer": "weep#1"
+        },
+        "silverash": {
+            "seeker_skm01": "summer#4",
+            "york's_bise": "snow#1"
+        },
+        "skadi": {
+            "the_next_afternoon_tea": "marthe#5",
+            "waverider_wr04": "summer#3"
+        },
+        "skadi_the_corrupting_heart": {
+            "sublimation": "boc#4"
+        },
+        "skyfire": {
+            "temperature_difference_rt.rx01": "summer#1"
+        },
+        "snowsant": {
+            "fated_hero": "witch#2"
+        },
+        "sora": {
+            "melodiosa": "epoque#17",
+            "summer_flowers_fa361": "summer#1"
+        },
+        "specter": {
+            "undercurrent": "winter#1"
+        },
+        "specter_the_unchained": {
+            "\u751f\u800c\u4e3a\u4e00": "boc#6"
+        },
+        "spot": {
+            "professional": "boc#3"
+        },
+        "steward": {
+            "snowstorm_invitation": "sale#6"
+        },
+        "surtr": {
+            "colorful_wonderland_cw03": "summer#9",
+            "libert\u00e9//\u00e9chec": "it#1"
+        },
+        "sussurro": {
+            "summer_flower_fa026": "summer#6"
+        },
+        "suzuran": {
+            "lostlands_flowering": "wild#3",
+            "spring_praise": "lxh#1",
+            "yukibare": "eqoque#22"
+        },
+        "swire": {
+            "honor_and_splendor": "nian#2"
+        },
+        "tachanka": {
+            "lord": "rainbow6#1"
+        },
+        "tequila": {
+            "cardwinner": "ambienceSynethesia#2"
+        },
+        "terra_research_commission": {
+            "fly_into_the_street": ""
+        },
+        "texas": {
+            "willpower": "epoque#7",
+            "winter_messenger": "winter#1"
+        },
+        "thorns": {
+            "c\u00f3modo": "it#1"
+        },
+        "tomimi": {
+            "silent_night_dn04": "summer#5"
+        },
+        "tsukinogi": {
+            "londinium_style_miko": "epoque#9"
+        },
+        "tuye": {
+            "cultivate_vegetation": "epoque#14"
+        },
+        "utage": {
+            "disguise": "epoque#15",
+            "summer_flowers_fa661": "summer#4"
+        },
+        "vigna": {
+            "black_wave": "as#1",
+            "casual_vacation_hd01": "summer#1"
+        },
+        "w": {
+            "fugue": "epoque#7"
+        },
+        "waai_fu": {
+            "wild_flower_of_street": "whirlwind#2"
+        },
+        "warfarin": {
+            "casual_vacation_hd31": "summer#7",
+            "the_feast": "witch#1"
+        },
+        "weedy": {
+            "candy_cape": "snow#2"
+        },
+        "whislash": {
+            "glory_purple": "epoque#11"
+        },
+        "whisperain": {
+            "tremble_cold": "nian#4"
+        },
+        "wild_mane": {
+            "justice_maker": "epoque#16"
+        },
+        "zima": {
+            "ready_to_go": "marthe#2",
+            "ursus_io79": "it#1"
+        }
+    }
+}
