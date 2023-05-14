@@ -26,6 +26,7 @@ for op in op_rows:
     # Also replace ', (, and ) in operator names
     op_key = op_name.lower().replace(" ", "_").replace("'", "").replace("(", "").replace(")", "")
 
+    # Only add new operators
     if op_key not in op_data["operators"].keys():
         op_data["operators"][op_key] = {
             "name": op_name,
@@ -35,6 +36,8 @@ for op in op_rows:
             "skins": [],
             "icon": ""
         }
+
+        print(f"New Operator: {op_name}")
 
 with open("output/arknights_data.json", "w") as arknights_data_json:
     json.dump(op_data, arknights_data_json, indent=4, sort_keys=True)

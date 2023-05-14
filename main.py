@@ -14,7 +14,10 @@ def home():
     with open("arknights_data.json") as arknights_data:
         game_data = json.load(arknights_data)
 
-    return render_template("index.html", events=event_data, game=game_data)
+    with open("arknights_skins.json") as arknights_skins:
+        skin_data = json.load(arknights_skins)
+
+    return render_template("index.html", events=event_data, game=game_data, skins=skin_data)
 
 
 if __name__ == "__main__":

@@ -54,6 +54,10 @@ h1 {
     object-fit: contain;
 }
 
+.op-img {
+    background-color: #74706D;
+}
+
 .item-quantity-text {
     position: absolute;
     right: 5px;
