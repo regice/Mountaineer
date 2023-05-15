@@ -135,6 +135,11 @@
             "name": "Integrated Device",
             "tier": 3
         },
+        "intelligence_certificate": {
+            "img_path": "REP_COIN",
+            "name": "Intelligence Certificate",
+            "tier": 5
+        },
         "keton_colloid": {
             "img_path": "MTL_SL_KETONE4",
             "name": "Keton Colloid",
@@ -219,6 +224,11 @@
             "img_path": "MTL_SL_IRON1",
             "name": "Oriron Shard",
             "tier": 1
+        },
+        "orundum": {
+            "img_path": "DIAMOND_SHD",
+            "name": "Orundum",
+            "tier": 5
         },
         "polyester": {
             "img_path": "MTL_SL_RUSH2",

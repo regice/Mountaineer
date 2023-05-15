@@ -147,6 +147,20 @@
               {% endfor %}
             </span>
             {% endif %}
+            <!--      Intelligence Cert. Store Additions      -->
+            {% if event["rewards"]["intelligence_cert_store_additions"] | length > 0 %}
+            <span class="rewards-listing">
+              <h2 class="event-subsection-heading">Intelligence Cert. Store Additions</h2>
+              {% for item in event["rewards"]["intelligence_cert_store_additions"] %}
+              {% set item_filepath = "items/" ~ game['items'][item]['img_path'] ~ ".png" %}
+              {% set item_bg = "material/bg/item-" ~ game['items'][item]['tier'] ~ ".png" %}
+              <div class="listing-item" style="background-image: url({{ url_for('static', filename=item_bg) }})">
+                <img src="{{ url_for('static', filename=item_filepath) }}" alt="{{ game['items'][item]['name'] }}" class="listing-img">
+                <div class="item-quantity-text">{{ event["rewards"]["intelligence_cert_store_additions"][item] }}</div>
+              </div>
+              {% endfor %}
+            </span>
+            {% endif %}
           </div>
 
           <!--    Misc. Additions    -->
@@ -222,7 +236,7 @@
             <!--      Skins Added to CC Permanent Store      -->
             {% if event["operator_skins"]["permanent_store_additions"] | length > 0 %}
             <div class="col-lg-4 misc-listing">
-              <h3>Added to Permanent Store</h3>
+              <h3>CC Permanent Store Additions</h3>
               {% for key, value in event["operator_skins"]["permanent_store_additions"].items() %}
               {% set skin_filepath = game['operators'][key]['icon'] ~ "_" ~ skins['skins'][key][value] ~ ".png" %}
                 <img src="{{ url_for('static', filename=skin_filepath) }}" alt="" class="listing-img op-img">

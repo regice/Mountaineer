@@ -100,7 +100,8 @@
       "permanent_store_additions": {
         "royal_supporter_token": 4
       },
-      "milestone_totals": {}
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {}
     },
     "operator_modules": {
       "first": [
@@ -242,7 +243,8 @@
       },
       "seasonal_store_totals": {},
       "permanent_store_additions": {},
-      "milestone_totals": {}
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {}
     },
     "operator_modules": {
       "first": [
@@ -343,7 +345,8 @@
       "permanent_store_additions": {
         "royal_supporter_token": 4
       },
-      "milestone_totals": {}
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {}
     },
     "operator_modules": {
       "first": [],
@@ -361,5 +364,196 @@
       "milestone_totals": {}
     },
     "operator_records_paradox_simulations": []
+  },
+  {
+    "event_name": "Break the Ice Rerun",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2022-12-01",
+        "CN_end": "2022-12-11"
+      },
+      "event_banner": "CN_Break_the_Ice_Rerun_banner"
+    },
+    "new_operators": [],
+    "headhunting": {
+      "banner": [
+        "gnosis",
+        "pramanix",
+        "aurora"
+      ],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 30,
+      "t3_drops": [
+        "incandescent_alloy",
+        "polyester_pack",
+        "grindstone"
+      ],
+      "store_totals": {
+        "headhunting_permit": 3,
+        "crystalline_electronic_unit": 1,
+        "optimized_device": 3,
+        "manganese_trihydrate": 3,
+        "cutting_fluid_solution": 3,
+        "aketon": 5,
+        "grindstone": 5,
+        "lmd": 100000,
+        "strategic_battle_record": 10,
+        "tactical_battle_record": 20,
+        "skill_summary_-_3": 10,
+        "skill_summary_-_2": 20,
+        "sugar": 8,
+        "polyester": 8,
+        "polyketon": 8,
+        "caster_chip": 5,
+        "intelligence_certificate": 525
+      },
+      "task_rewards": {
+        "intelligence_certificate": 1495
+      },
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {
+        "orundum": 2000,
+        "lmd": 30000,
+        "strategic_battle_record": 20,
+        "skill_summary_-_3": 20,
+        "crystalline_circuit": 4,
+        "white_horse_kohl": 4
+      }
+    },
+    "operator_modules": {
+      "first": [],
+      "second": [],
+      "new_operators": []
+    },
+    "operator_skins": {
+      "new": {
+        "kjera": "ingenious_servant"
+      },
+      "rerun": {
+        "weedy": "candy_cape",
+        "kafka": "cardboard_fairy",
+        "carnelian": "hohenlohe_chillysand",
+        "leonhardt": "hope_cruise",
+        "elysium": "snowy_echo",
+        "firewatch": "snowywatch"
+      },
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": [
+      "astesia",
+      "deepcolor",
+      "roberta",
+      "tequila"
+    ]
+  },
+  {
+    "event_name": "What the Firelight Casts",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2022-12-15",
+        "CN_end": "2022-12-29"
+      },
+      "event_banner": "CN_What_the_Firelight_Casts_banner"
+    },
+    "new_operators": [
+      "reed_the_flame_shadow",
+      "harmonie",
+      "puzzle"
+    ],
+    "headhunting": {
+      "banner": [
+        "reed_the_flame_shadow",
+        "harmonie",
+        "skyfire"
+      ],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 29,
+      "t3_drops": [
+        "oriron_cluster",
+        "sugar_pack",
+        "semi-synthetic_solvent"
+      ],
+      "store_totals": {
+        "headhunting_permit": 3,
+        "module_data_block": 2,
+        "bipolar_nanoflake": 5,
+        "keton_colloid": 10,
+        "polymerized_gel": 10,
+        "incandescent_alloy_block": 10,
+        "data_supplement_instrument": 10,
+        "data_supplement_stick": 60,
+        "polyester_pack": 15,
+        "manganese_ore": 10,
+        "lmd": 500000,
+        "strategic_battle_record": 50,
+        "tactical_battle_record": 100,
+        "frontline_battle_record": 240,
+        "skill_summary_-_3": 25,
+        "skill_summary_-_2": 50,
+        "orirock_cube": 25,
+        "sugar": 25,
+        "device": 25,
+        "vanguard_chip": 5,
+        "furniture_part": 2000
+      },
+      "task_rewards": {
+        "module_data_block": 2
+      },
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {}
+    },
+    "operator_modules": {
+      "first": [
+        "utage",
+        "akafuyu",
+        "hellagur",
+        "erato",
+        "toddifons",
+        "totter",
+        "rosa_poca"
+      ],
+      "second": [
+        "mizuki",
+        "archetto"
+      ],
+      "new_operators": [
+        "harmonie"
+      ]
+    },
+    "operator_skins": {
+      "new": {
+        "greyy_the_lightningbearer": "prince_after_the_performance",
+        "erato": "untold_stories",
+        "goldenglow": "attendant_of_the_bright_night"
+      },
+      "rerun": {
+        "gravel": "modeling_night",
+        "arene": "casual",
+        "bibeak": "soft_wool"
+      },
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": [
+      "harmonie",
+      "may",
+      "mousse",
+      "saileach"
+    ]
   }
 ]
