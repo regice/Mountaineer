@@ -555,5 +555,485 @@
       "mousse",
       "saileach"
     ]
+  },
+  {
+    "event_name": "Invitation to Wine Rerun",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2023-01-01",
+        "CN_end": "2023-01-11"
+      },
+      "event_banner": "CN_Invitation_to_Wine_Rerun_banner"
+    },
+    "new_operators": [],
+    "headhunting": {
+      "banner": [],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 28,
+      "t3_drops": [
+        "integrated_device",
+        "rma70_12",
+        "orirock_cluster"
+      ],
+      "store_totals": {
+        "headhunting_permit": 3,
+        "crystalline_electronic_unit": 1,
+        "oriron_block": 3,
+        "white_horse_kohl": 3,
+        "crystalline_circuit": 3,
+        "rma70_12": 5,
+        "compound_cutting_fluid": 5,
+        "lmd": 100000,
+        "strategic_battle_record": 10,
+        "tactical_battle_record": 20,
+        "frontline_battle_record": 40,
+        "skill_summary_-_3": 10,
+        "skill_summary_-_2": 20,
+        "polyester": 8,
+        "oriron": 8,
+        "polyketon": 8,
+        "sniper_chip": 5,
+        "intelligence_certificate": 600
+      },
+      "task_rewards": {
+        "intelligence_certificate": 1235
+      },
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {
+        "orundum": 2000,
+        "lmd": 30000,
+        "strategic_battle_record": 20,
+        "skill_summary_-_3": 20,
+        "cutting_fluid_solution": 4,
+        "refined_solvent": 4
+      }
+    },
+    "operator_modules": {
+      "first": [],
+      "second": [],
+      "new_operators": []
+    },
+    "operator_skins": {
+      "new": {
+        "kroos_the_keen_glint": "along_the_corridor"
+      },
+      "rerun": {
+        "aak": "doctor_of_faces",
+        "hung": "just_a_driver",
+        "nian": "unfettered_freedom"
+      },
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": []
+  },
+  {
+    "event_name": "Trials for Navigator #2",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2023-01-10",
+        "CN_end": "2023-01-17"
+      },
+      "event_banner": "CN_Trials_for_Navigator_2_banner"
+    },
+    "new_operators": [],
+    "headhunting": {
+      "banner": [],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 0,
+      "t3_drops": [],
+      "store_totals": {},
+      "task_rewards": {},
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {
+        "headhunting_permit": 1,
+        "lmd": 60000,
+        "module_data_integration_block": 1,
+        "module_data_block": 1,
+        "data_supplement_instrument": 15,
+        "data_supplement_stick": 5,
+        "polymerization_preparation": 1,
+        "nucleic_crystal_sinter": 1,
+        "refined_solvent": 1,
+        "manganese_trihydrate": 1,
+        "polymerized_gel": 1,
+        "loxic_kohl": 10,
+        "transmuted_salt": 10,
+        "strategic_battle_record": 15,
+        "tactical_battle_record": 20,
+        "skill_summary_-_3": 10,
+        "skill_summary_-_2": 20,
+        "furniture_part": 300
+      },
+      "intelligence_cert_store_additions": {}
+    },
+    "operator_modules": {
+      "first": [],
+      "second": [],
+      "new_operators": []
+    },
+    "operator_skins": {
+      "new": {
+        "blacknight": "fragrance_from_the_branches"
+      },
+      "rerun": {},
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": []
+  },
+  {
+    "event_name": "Where Vernal Winds Will Never Blow",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2023-01-17",
+        "CN_end": "2023-01-31"
+      },
+      "event_banner": "CN_Where_Vernal_Winds_Will_Never_Blow_banner"
+    },
+    "new_operators": [
+      "chongyue",
+      "lin",
+      "firewhistle",
+      "jieyun"
+    ],
+    "headhunting": {
+      "banner": [
+        "chongyue",
+        "lin",
+        "firewhistle"
+      ],
+      "recruitment": [
+        "rosa_poca",
+        "leonhardt",
+        "podenco"
+      ]
+    },
+    "rewards": {
+      "originite_prime": 29,
+      "t3_drops": [
+        "manganese_ore",
+        "aketon",
+        "crystalline_component"
+      ],
+      "store_totals": {
+        "headhunting_permit": 3,
+        "module_data_block": 2,
+        "d32_steel": 5,
+        "orirock_concentration": 10,
+        "grindstone_pentahydrate": 10,
+        "optimized_device": 10,
+        "data_supplement_instrument": 10,
+        "data_supplement_stick": 60,
+        "rma70_12": 15,
+        "oriron_cluster": 10,
+        "lmd": 500000,
+        "strategic_battle_record": 50,
+        "tactical_battle_record": 100,
+        "frontline_battle_record": 240,
+        "skill_summary_-_3": 25,
+        "skill_summary_-_2": 50,
+        "orirock_cube": 25,
+        "sugar": 25,
+        "polyketon": 25,
+        "sniper_chip": 5,
+        "furniture_part": 2000
+      },
+      "task_rewards": {
+        "module_data_block": 1
+      },
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {}
+    },
+    "operator_modules": {
+      "first": [
+        "amiya",
+        "tomimi",
+        "nightmare",
+        "qanipalaat",
+        "haze",
+        "absinthe",
+        "ceobe",
+        "eyjafjalla"
+      ],
+      "second": [
+        "saria",
+        "lumen"
+      ],
+      "new_operators": [
+        "jieyun"
+      ]
+    },
+    "operator_skins": {
+      "new": {
+        "mulberry": "reflection_that_of_the_moons",
+        "cantabile": "illumination_that_of_daylights",
+        "ling": "it_does_wash_the_strings"
+      },
+      "rerun": {
+        "dusk": "everything_is_a_miracle",
+        "mr._nothing": "pale_rising_moon",
+        "feater": "gourmet"
+      },
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": []
+  },
+  {
+    "event_name": "Fire Within the Sand",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2023-01-29",
+        "CN_end": "2023-03-05"
+      },
+      "event_banner": "CN_Fire_Within_the_Sand_banner"
+    },
+    "new_operators": [],
+    "headhunting": {
+      "banner": [],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 0,
+      "t3_drops": [],
+      "store_totals": {},
+      "task_rewards": {},
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {
+        "headhunting_permit": 3,
+        "lmd": 225000,
+        "module_data_block": 8,
+        "data_supplement_instrument": 20,
+        "data_supplement_stick": 90,
+        "strategic_battle_record": 40,
+        "tactical_battle_record": 120,
+        "frontline_battle_record": 60,
+        "skill_summary_-_3": 40,
+        "skill_summary_-_2": 30,
+        "skill_summary_-_1": 30,
+        "nucleic_crystal_sinter": 1,
+        "crystalline_electronic_unit": 1,
+        "transmuted_salt": 5,
+        "compound_cutting_fluid": 5,
+        "semi-synthetic_solvent": 5,
+        "crystalline_component": 5,
+        "incandescent_alloy": 5,
+        "coagulating_gel": 5,
+        "white_horse_kohl": 2,
+        "loxic_kohl": 5,
+        "manganese_ore": 5,
+        "grindstone": 5,
+        "rma70_12": 5,
+        "orirock_cluster": 5,
+        "optimized_device": 2,
+        "integrated_device": 5,
+        "polyester_pack": 5,
+        "sugar_pack": 5,
+        "oriron_block": 2,
+        "oriron_cluster": 5,
+        "keton_colloid": 2,
+        "aketon": 5
+      },
+      "intelligence_cert_store_additions": {}
+    },
+    "operator_modules": {
+      "first": [],
+      "second": [],
+      "new_operators": []
+    },
+    "operator_skins": {
+      "new": {
+        "pallas": "a_drip_of_orea_and_potamus"
+      },
+      "rerun": {},
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": []
+  },
+  {
+    "event_name": "A Death in Chunfen",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2023-02-14",
+        "CN_end": "2023-02-21"
+      },
+      "event_banner": "CN_A_Death_in_Chunfen_banner"
+    },
+    "new_operators": [
+      "qiubai",
+      "wind_chimes"
+    ],
+    "headhunting": {
+      "banner": [
+        "qiubai",
+        "wind_chimes",
+        "hung"
+      ],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 18,
+      "t3_drops": [],
+      "store_totals": {
+        "information_fragment": 6,
+        "module_data_block": 2,
+        "data_supplement_instrument": 8,
+        "data_supplement_stick": 40,
+        "bipolar_nanoflake": 1,
+        "chip_catalyst": 1,
+        "transmuted_salt_agglomerate": 2,
+        "aketon": 4,
+        "semi-synthetic_solvent": 4,
+        "lmd": 20000,
+        "strategic_battle_record": 5,
+        "tactical_battle_record": 10,
+        "skill_summary_-_3": 5,
+        "skill_summary_-_2": 10,
+        "pure_gold": 20,
+        "device": 5,
+        "recruitment_permit": 5,
+        "furniture_part": 100
+      },
+      "task_rewards": {},
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {}
+    },
+    "operator_modules": {
+      "first": [],
+      "second": [],
+      "new_operators": []
+    },
+    "operator_skins": {
+      "new": {
+        "deepcolor": "melodic_portrayal",
+        "mousse": "campfire_cooking_smoke",
+        "proviso": "high_autumn",
+        "poz\u00ebmka": "snowy_plains_in_words",
+        "manticore": "under_a_veil"
+      },
+      "rerun": {
+        "waai_fu": "wild_flower_of_street",
+        "ceobe": "unfettered"
+      },
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": [
+      "blacknight",
+      "chiave",
+      "iris",
+      "quercus"
+    ]
+  },
+  {
+    "event_name": "Guide Ahead Rerun",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2023-02-21",
+        "CN_end": "2023-03-03"
+      },
+      "event_banner": "CN_Guide_Ahead_Rerun_banner"
+    },
+    "new_operators": [],
+    "headhunting": {
+      "banner": [
+        "fiammetta",
+        "executor",
+        "kazemaru"
+      ],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 27,
+      "t3_drops": [
+        "loxic_kohl",
+        "sugar_pack",
+        "coagulating_gel"
+      ],
+      "store_totals": {
+        "headhunting_permit": 3,
+        "crystalline_electronic_unit": 1,
+        "keton_colloid": 3,
+        "rma70_24": 3,
+        "white_horse_kohl": 3,
+        "integrated_device": 5,
+        "manganese_ore": 5,
+        "lmd": 100000,
+        "strategic_battle_record": 10,
+        "tactical_battle_record": 20,
+        "frontline_battle_record": 40,
+        "skill_summary_-_3": 10,
+        "skill_summary_-_2": 20,
+        "device": 8,
+        "polyester": 8,
+        "oriron": 8,
+        "specialist_chip": 5,
+        "intelligence_certificate": 405
+      },
+      "task_rewards": {
+        "intelligence_certificate": 1555
+      },
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {
+        "orundum": 2000,
+        "lmd": 30000,
+        "strategic_battle_record": 20,
+        "skill_summary_-_3": 20,
+        "optimized_device": 4,
+        "transmuted_salt_agglomerate": 4
+      }
+    },
+    "operator_modules": {
+      "first": [],
+      "second": [],
+      "new_operators": []
+    },
+    "operator_skins": {
+      "new": {
+        "enforcer": "paper_wing"
+      },
+      "rerun": {
+        "saileach": "appreciate_fragrance",
+        "tuye": "cultivate_vegetation",
+        "mulberry": "plant_crude_drug"
+      },
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": []
   }
 ]

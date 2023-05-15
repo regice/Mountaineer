@@ -130,6 +130,11 @@
             "name": "Incandescent Alloy Block",
             "tier": 4
         },
+        "information_fragment": {
+            "img_path": "STORY_REVIEW_COIN",
+            "name": "Information Fragment",
+            "tier": 5
+        },
         "integrated_device": {
             "img_path": "MTL_SL_BOSS3",
             "name": "Integrated Device",
@@ -173,6 +178,11 @@
         "module_data_block": {
             "img_path": "mod_unlock_token",
             "name": "Module Data Block",
+            "tier": 5
+        },
+        "module_data_integration_block": {
+            "img_path": "itempack_mod_4",
+            "name": "Module Data Integration Block",
             "tier": 5
         },
         "nucleic_crystal_sinter": {
@@ -260,6 +270,16 @@
             "name": "Polymerized Gel",
             "tier": 4
         },
+        "pure_gold": {
+            "img_path": "MTL_GOLD3",
+            "name": "Pure Gold",
+            "tier": 4
+        },
+        "recruitment_permit": {
+            "img_path": "TKT_RECRUIT",
+            "name": "Recruitment Permit",
+            "tier": 4
+        },
         "refined_solvent": {
             "img_path": "MTL_SL_RS",
             "name": "Refined Solvent",
@@ -324,6 +344,11 @@
             "img_path": "",
             "name": "Sintered Condescant",
             "tier": 0
+        },
+        "skill_summary_-_1": {
+            "img_path": "MTL_SKILL1",
+            "name": "Skill Summary 1",
+            "tier": 2
         },
         "skill_summary_-_2": {
             "img_path": "MTL_SKILL2",
