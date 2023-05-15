@@ -1342,7 +1342,7 @@
         "hoolheyak": {
             "branch": "Core-Caster",
             "class": "Caster",
-            "icon": "",
+            "icon": "avatars/char_4027_heyak",
             "name": "Ho'olheyak",
             "rarity": 6,
             "skins": []
@@ -1622,7 +1622,7 @@
         "liskarm": {
             "branch": "Protector",
             "class": "Defender",
-            "icon": "avatars/char_107_liskarm",
+            "icon": "avatars/char_107_liskam",
             "name": "Liskarm",
             "rarity": 5,
             "skins": []
@@ -1702,7 +1702,7 @@
         "melanite": {
             "branch": "Heavyshooter",
             "class": "Sniper",
-            "icon": "",
+            "icon": "avatars/char_4006_melnte",
             "name": "Melanite",
             "rarity": 5,
             "skins": []
@@ -1814,7 +1814,7 @@
         "muelsyse": {
             "branch": "Tactician",
             "class": "Vanguard",
-            "icon": "",
+            "icon": "avatars/char_249_mlyss",
             "name": "Muelsyse",
             "rarity": 6,
             "skins": []
@@ -2366,7 +2366,7 @@
         "silence_the_paradigmatic": {
             "branch": "Abjurer",
             "class": "Supporter",
-            "icon": "",
+            "icon": "avatars/char_1031_slent2",
             "name": "Silence The Paradigmatic",
             "rarity": 6,
             "skins": []

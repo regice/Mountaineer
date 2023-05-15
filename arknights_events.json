@@ -1,161 +1,5 @@
 [
   {
-    "event_name": "Event Name [Template]",
-    "event_data": {
-      "event_duration": {
-        "start": null,
-        "end": null,
-        "CN_start": "2022-11-01",
-        "CN_end": "2022-11-22"
-      },
-      "event_banner": "test"
-    },
-    "new_operators": [
-      "texas_the_omertosa",
-      "penance",
-      "vigil",
-      "lunacub",
-      "quartz",
-      "qanipalaat"
-    ],
-    "headhunting": {
-      "banner": [
-        "texas_the_omertosa",
-        "penance",
-        "lunacub"
-      ],
-      "recruitment": [
-        "weedy",
-        "elysium",
-        "tsukinogi",
-        "asbestos"
-      ]
-    },
-    "rewards": {
-      "originite_prime": 41,
-      "t3_drops": [
-        "incandescent_alloy",
-        "compound_cutting_fluid",
-        "orirock_cluster"
-      ],
-      "store_totals": {
-        "headhunting_permit": 3,
-        "module_data_block": 3,
-        "d32_steel": 5,
-        "bipolar_nanoflake": 5,
-        "optimized_device": 10,
-        "crystalline_circuit": 10,
-        "oriron_block": 10,
-        "rma70_24": 10,
-        "grindstone_pentahydrate": 10,
-        "refined_solvent": 10,
-        "data_supplement_instrument": 10,
-        "data_supplement_stick": 60,
-        "integrated_device": 15,
-        "grindstone": 15,
-        "semi-synthetic_solvent": 15,
-        "sugar_pack": 15,
-        "lmd": 600000,
-        "strategic_battle_record": 60,
-        "tactical_battle_record": 100,
-        "frontline_battle_record": 300,
-        "skill_summary_-_3": 25,
-        "skill_summary_-_2": 50,
-        "orirock_cube": 40,
-        "sugar": 30,
-        "polyester": 30,
-        "oriron": 25,
-        "polyketon": 25,
-        "device": 20,
-        "vanguard_chip": 5,
-        "furniture_part": 2000
-      },
-      "task_rewards": {
-        "lmd": 180000,
-        "integrated_device": 8,
-        "skill_summary_-_3": 30,
-        "strategic_battle_record": 45,
-        "semi-synthetic_solvent": 8,
-        "optimized_device": 1,
-        "chip_catalyst": 2,
-        "sugar_pack": 8,
-        "grindstone": 8,
-        "skill_summary_-_2": 100,
-        "crystalline_circuit": 1,
-        "rma70_24": 1,
-        "oriron_block": 1
-      },
-      "seasonal_store_totals": {
-        "polymerization_preparation": 2,
-        "module_data_block": 1,
-        "keton_colloid": 5,
-        "rma70_24": 5,
-        "white_horse_kohl": 15,
-        "coagulating_gel": 15,
-        "crystalline_component": 15,
-        "lmd": 60000,
-        "tactical_battle_record": 60,
-        "furniture_part": 400
-      },
-      "permanent_store_additions": {
-        "royal_supporter_token": 4
-      },
-      "milestone_totals": {},
-      "intelligence_cert_store_additions": {}
-    },
-    "operator_modules": {
-      "first": [
-        "zima",
-        "scavenger",
-        "courier",
-        "chiave",
-        "texas",
-        "flametail",
-        "saga",
-        "siege"
-      ],
-      "second": [
-        "hoshiguma",
-        "schwarz"
-      ],
-      "new_operators": [
-        "lunacub",
-        "texas_the_omertosa"
-      ]
-    },
-    "operator_skins": {
-      "new": {
-        "passenger": "dream_in_a_moment",
-        "rosmontis": "become_anew",
-        "nearl_the_radiant_knight": "relight",
-        "honeyberry": "wilderness_behind",
-        "sora": "melodiosa"
-      },
-      "rerun": {
-        "pallas": "heritage",
-        "rosa_poca": "masterpiece",
-        "andreana": "silent_arrow",
-        "texas": "willpower",
-        "dobermann": "lieutenant"
-      },
-      "fashion_review": {
-        "mostima": "spellbreaker",
-        "suzuran": "lostlands_flowering",
-        "astesia": "starseeker"
-      },
-      "permanent_store_additions": {},
-      "milestone_totals": {}
-    },
-    "operator_records_paradox_simulations": [
-      "elysium",
-      "meteorite",
-      "mountain",
-      "spot",
-      "vigil",
-      "wild_mane"
-    ]
-  },
-  {
     "event_name": "Il Siracusano",
     "event_data": {
       "event_duration": {
@@ -1035,5 +879,394 @@
       "milestone_totals": {}
     },
     "operator_records_paradox_simulations": []
+  },
+  {
+    "event_name": "Leaves Chasing Fire",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2023-03-07",
+        "CN_end": "2023-03-21"
+      },
+      "event_banner": "CN_Leaves_Chasing_Fire_banner"
+    },
+    "new_operators": [
+      "kirin_x_yato",
+      "rathalos_s_noir_corne",
+      "terra_research_commission"
+    ],
+    "headhunting": {
+      "banner": [
+        "kirin_x_yato",
+        "rathalos_s_noir_corne"
+      ],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 30,
+      "t3_drops": [
+        "transmuted_salt",
+        "integrated_device",
+        "polyester_pack"
+      ],
+      "store_totals": {
+        "headhunting_permit": 3,
+        "module_data_block": 2,
+        "polymerization_preparation": 5,
+        "nucleic_crystal_sinter": 5,
+        "data_supplement_instrument": 10,
+        "data_supplement_stick": 60,
+        "transmuted_salt_agglomerate": 10,
+        "rma70_24": 10,
+        "grindstone_pentahydrate": 10,
+        "transmuted_salt": 30,
+        "integrated_device": 30,
+        "polyester_pack": 30,
+        "lmd": 500000,
+        "strategic_battle_record": 50,
+        "tactical_battle_record": 100,
+        "frontline_battle_record": 120,
+        "skill_summary_-_3": 30,
+        "skill_summary_-_2": 50,
+        "sugar": 30,
+        "polyester": 30,
+        "oriron": 30,
+        "defender_chip": 5,
+        "furniture_part": 2000
+      },
+      "task_rewards": {
+        "module_data_block": 2
+      },
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {}
+    },
+    "operator_modules": {
+      "first": [
+        "corroserum",
+        "ifrit",
+        "shaw",
+        "feater",
+        "enforcer",
+        "weedy"
+      ],
+      "second": [
+        "siege",
+        "shining"
+      ],
+      "new_operators": [
+        "rathalos_s_noir_corne",
+        "kirin_x_yato"
+      ]
+    },
+    "operator_skins": {
+      "new": {
+        "suzuran": "yukibare",
+        "mint": "tsukiyoi",
+        "scene": "betsushi",
+        "terra_research_commission": "fly_into_the_street"
+      },
+      "rerun": {
+        "schwarz": "skyline",
+        "liskarm": "overload"
+      },
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": []
+  },
+  {
+    "event_name": "Contingency Contract #12: Operation Basepoint",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2023-03-21",
+        "CN_end": "2023-04-04"
+      },
+      "event_banner": "CN_Contingency_Contract_Basepoint_banner"
+    },
+    "new_operators": [],
+    "headhunting": {
+      "banner": [
+        "thorns",
+        "lee",
+        "irene",
+        "dorothy",
+        "istina",
+        "nightmare",
+        "andreana",
+        "flint",
+        "blacknight",
+        "quercus"
+      ],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 0,
+      "t3_drops": [],
+      "store_totals": {},
+      "task_rewards": {},
+      "seasonal_store_totals": {
+        "d32_steel": 2,
+        "module_data_block": 1,
+        "optimized_device": 5,
+        "grindstone_pentahydrate": 5,
+        "polymerized_gel": 5,
+        "loxic_kohl": 15,
+        "incandescent_alloy": 15,
+        "semi-synthetic_solvent": 15,
+        "lmd": 60000,
+        "tactical_battle_record": 60,
+        "furniture_part": 400
+      },
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {}
+    },
+    "operator_modules": {
+      "first": [],
+      "second": [],
+      "new_operators": []
+    },
+    "operator_skins": {
+      "new": {},
+      "rerun": {},
+      "fashion_review": {},
+      "permanent_store_additions": {
+        "amiya": "fresh_fastener",
+        "astesia": "fantastic_crafts"
+      },
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": []
+  },
+  {
+    "event_name": "Stultifera Navis Rerun",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2023-04-20",
+        "CN_end": "2023-04-30"
+      },
+      "event_banner": "CN_Stultifera_Navis_Rerun_banner"
+    },
+    "new_operators": [],
+    "headhunting": {
+      "banner": [],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 36,
+      "t3_drops": [
+        "oriron_cluster",
+        "manganese_ore",
+        "compound_cutting_fluid"
+      ],
+      "store_totals": {
+        "intelligence_certificate": 665,
+        "headhunting_permit": 3,
+        "polymerization_preparation": 1,
+        "manganese_trihydrate": 33,
+        "oriron_block": 3,
+        "orirock_concentration": 3,
+        "grindstone": 5,
+        "coagulating_gel": 5,
+        "lmd": 100000,
+        "strategic_battle_record": 10,
+        "tactical_battle_record": 20,
+        "frontline_battle_record": 40,
+        "skill_summary_-_3": 10,
+        "skill_summary_-_2": 20,
+        "orirock_cube": 8,
+        "sugar": 8,
+        "polyketon": 8,
+        "medic_chip": 5
+      },
+      "task_rewards": {
+        "module_data_block": 1,
+        "bipolar_nanoflake": 1,
+        "oriron_block": 1,
+        "crystalline_circuit": 1,
+        "keton_colloid": 1,
+        "optimized_device": 1,
+        "white_horse_kohl": 1,
+        "manganese_trihydrate": 1,
+        "cutting_fluid_solution": 1,
+        "incandescent_alloy_block": 1,
+        "polymerized_gel": 1,
+        "rma70_12": 1,
+        "coagulating_gel": 4,
+        "lmd": 140000,
+        "skill_summary_-_3": 10,
+        "strategic_battle_record": 70,
+        "intelligence_certificate": 1315
+      },
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {
+        "orundum": 2000,
+        "lmd": 30000,
+        "strategic_battle_record": 20,
+        "skill_summary_-_3": 20,
+        "orirock_concentration": 4,
+        "keton_colloid": 4
+      }
+    },
+    "operator_modules": {
+      "first": [],
+      "second": [],
+      "new_operators": []
+    },
+    "operator_skins": {
+      "new": {
+        "skadi": "the_next_afternoon_tea"
+      },
+      "rerun": {
+        "gnosis": "forerunner",
+        "aurora": "polar_catcher",
+        "skadi_the_corrupting_heart": "sublimation"
+      },
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": []
+  },
+  {
+    "event_name": "Lone Trail",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2023-05-01",
+        "CN_end": "2023-05-22"
+      },
+      "event_banner": "CN_Lone_Trail_banner"
+    },
+    "new_operators": [
+      "muelsyse",
+      "hoolheyak",
+      "silence_the_paradigmatic",
+      "melanite"
+    ],
+    "headhunting": {
+      "banner": [
+        "muelsyse",
+        "hoolheyak",
+        "melanite"
+      ],
+      "recruitment": [
+        "suzuran",
+        "ayerscarpe",
+        "click"
+      ]
+    },
+    "rewards": {
+      "originite_prime": 0,
+      "t3_drops": [
+        "incandescent_alloy",
+        "aketon",
+        "semi-synthetic_solvent"
+      ],
+      "store_totals": {
+        "headhunting_permit": 3,
+        "module_data_block": 3,
+        "bipolar_nanoflake": 5,
+        "keton_colloid": 10,
+        "white_horse_kohl": 10,
+        "refined_solvent": 10,
+        "transmuted_salt_agglomerate": 10,
+        "data_supplement_instrument": 10,
+        "data_supplement_stick": 60,
+        "orirock_cluster": 15,
+        "integrated_device": 15,
+        "rma70_12": 15,
+        "compound_cutting_fluid": 15,
+        "lmd": 600000,
+        "strategic_battle_record": 60,
+        "tactical_battle_record": 100,
+        "frontline_battle_record": 300,
+        "skill_summary_-_3": 25,
+        "skill_summary_-_2": 50,
+        "orirock_cube": 40,
+        "sugar": 30,
+        "polyester": 30,
+        "oriron": 25,
+        "polyketon": 25,
+        "device": 20,
+        "supporter_chip": 5,
+        "furniture_part": 2000
+      },
+      "task_rewards": {
+        "module_data_block": 2
+      },
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {}
+    },
+    "operator_modules": {
+      "first": [
+        "greyy_the_lightningbearer",
+        "rosmontis",
+        "shamare",
+        "pramanix",
+        "gnosis"
+      ],
+      "second": [
+        "kaltsit",
+        "w"
+      ],
+      "new_operators": [
+        "hoolheyak",
+        "melanite"
+      ]
+    },
+    "operator_skins": {
+      "new": {
+        "specter_the_unchained": "born_as_one",
+        "ebenholz": "eine_variation",
+        "lumen": "golden_dream",
+        "roberta": "granter_of_colors",
+        "kaltsit": "remnant",
+        "chen_the_holungday": "ten_thousand_mountains",
+        "irene": "voyage_of_feathers"
+      },
+      "rerun": {
+        "mountain": "dark_cloud",
+        "eunectes": "forgemaster",
+        "ayerscarpe": "tested_one",
+        "flint": "gorgeous_flower",
+        "nearl_the_radiant_knight": "relight",
+        "rosmontis": "become_anew",
+        "w": "fugue",
+        "courier": "speechless_sound",
+        "vigna": "black_wave",
+        "blaze": "burst_feline",
+        "mudrock": "obsidian",
+        "reed": "emerald_holiday",
+        "tequila": "cardwinner"
+      },
+      "fashion_review": {
+        "hellagur": "octopath_illusion",
+        "aak": "doctor_of_faces",
+        "bibeak": "soft_wool"
+      },
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": [
+      "dorothy",
+      "frostleaf",
+      "glaucus",
+      "paprika",
+      "sesa"
+    ]
   }
 ]
