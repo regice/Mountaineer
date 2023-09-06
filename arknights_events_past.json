@@ -1,0 +1,725 @@
+[
+  {
+    "event_name": "Il Siracusano",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2022-11-01",
+        "CN_end": "2022-11-22"
+      },
+      "event_banner": "CN_Il_Siracusano_banner"
+    },
+    "new_operators": [
+      "texas_the_omertosa",
+      "penance",
+      "vigil",
+      "lunacub",
+      "quartz",
+      "qanipalaat"
+    ],
+    "headhunting": {
+      "banner": [
+        "texas_the_omertosa",
+        "penance",
+        "lunacub"
+      ],
+      "recruitment": [
+        "weedy",
+        "elysium",
+        "tsukinogi",
+        "asbestos"
+      ]
+    },
+    "rewards": {
+      "originite_prime": 41,
+      "t3_drops": [
+        "incandescent_alloy",
+        "compound_cutting_fluid",
+        "orirock_cluster"
+      ],
+      "store_totals": {
+        "headhunting_permit": 3,
+        "module_data_block": 3,
+        "d32_steel": 5,
+        "bipolar_nanoflake": 5,
+        "optimized_device": 10,
+        "crystalline_circuit": 10,
+        "oriron_block": 10,
+        "rma70_24": 10,
+        "grindstone_pentahydrate": 10,
+        "refined_solvent": 10,
+        "data_supplement_instrument": 10,
+        "data_supplement_stick": 60,
+        "integrated_device": 15,
+        "grindstone": 15,
+        "semi-synthetic_solvent": 15,
+        "sugar_pack": 15,
+        "lmd": 600000,
+        "strategic_battle_record": 60,
+        "tactical_battle_record": 100,
+        "frontline_battle_record": 300,
+        "skill_summary_-_3": 25,
+        "skill_summary_-_2": 50,
+        "orirock_cube": 40,
+        "sugar": 30,
+        "polyester": 30,
+        "oriron": 25,
+        "polyketon": 25,
+        "device": 20,
+        "vanguard_chip": 5,
+        "furniture_part": 2000
+      },
+      "task_rewards": {
+        "lmd": 180000,
+        "integrated_device": 8,
+        "skill_summary_-_3": 30,
+        "strategic_battle_record": 45,
+        "semi-synthetic_solvent": 8,
+        "optimized_device": 1,
+        "chip_catalyst": 2,
+        "sugar_pack": 8,
+        "grindstone": 8,
+        "skill_summary_-_2": 100,
+        "crystalline_circuit": 1,
+        "rma70_24": 1,
+        "oriron_block": 1
+      },
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {}
+    },
+    "operator_modules": {
+      "first": [
+        "zima",
+        "scavenger",
+        "courier",
+        "chiave",
+        "texas",
+        "flametail",
+        "saga",
+        "siege"
+      ],
+      "second": [
+        "hoshiguma",
+        "schwarz"
+      ],
+      "new_operators": [
+        "lunacub",
+        "texas_the_omertosa"
+      ]
+    },
+    "operator_skins": {
+      "new": {
+        "passenger": "dream_in_a_moment",
+        "rosmontis": "become_anew",
+        "nearl_the_radiant_knight": "relight",
+        "honeyberry": "wildness_behind",
+        "sora": "melodiosa"
+      },
+      "rerun": {
+        "pallas": "heritage",
+        "rosa_poca": "masterpiece",
+        "andreana": "silent_arrow",
+        "texas": "willpower",
+        "dobermann": "lieutenant"
+      },
+      "fashion_review": {
+        "mostima": "spellbreaker",
+        "suzuran": "lostlands_flowering",
+        "astesia": "starseeker"
+      },
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": [
+      "elysium",
+      "meteorite",
+      "mountain",
+      "spot",
+      "vigil",
+      "wild_mane"
+    ]
+  },
+  {
+    "event_name": "Contingency Contract #11: Operation Fake Waves",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2022-11-15",
+        "CN_end": "2022-11-29"
+      },
+      "event_banner": "CN_Contingency_Contract_Fake_Waves_banner"
+    },
+    "new_operators": [],
+    "headhunting": {
+      "banner": [
+        "suzuran",
+        "eunectes",
+        "fartooth",
+        "goldenglow",
+        "sora",
+        "sesa",
+        "ayerscarpe",
+        "ashlock",
+        "corroserum",
+        "kazemaru"
+      ],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 0,
+      "t3_drops": [],
+      "store_totals": {},
+      "task_rewards": {},
+      "seasonal_store_totals": {
+        "polymerization_preparation": 2,
+        "module_data_block": 1,
+        "keton_colloid": 5,
+        "rma70_24": 5,
+        "white_horse_kohl": 15,
+        "coagulating_gel": 15,
+        "crystalline_component": 15,
+        "lmd": 60000,
+        "tactical_battle_record": 60,
+        "furniture_part": 400
+      },
+      "permanent_store_additions": {
+        "royal_supporter_token": 4
+      },
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {}
+    },
+    "operator_modules": {
+      "first": [],
+      "second": [],
+      "new_operators": []
+    },
+    "operator_skins": {
+      "new": {},
+      "rerun": {},
+      "fashion_review": {},
+      "permanent_store_additions": {
+        "aciddrop": "'afternoon_teatime'",
+        "greyy": "eggcellent_craftsman"
+      },
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": []
+  },
+  {
+    "event_name": "Break the Ice Rerun",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2022-12-01",
+        "CN_end": "2022-12-11"
+      },
+      "event_banner": "CN_Break_the_Ice_Rerun_banner"
+    },
+    "new_operators": [],
+    "headhunting": {
+      "banner": [
+        "gnosis",
+        "pramanix",
+        "aurora"
+      ],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 30,
+      "t3_drops": [
+        "incandescent_alloy",
+        "polyester_pack",
+        "grindstone"
+      ],
+      "store_totals": {
+        "headhunting_permit": 3,
+        "crystalline_electronic_unit": 1,
+        "optimized_device": 3,
+        "manganese_trihydrate": 3,
+        "cutting_fluid_solution": 3,
+        "aketon": 5,
+        "grindstone": 5,
+        "lmd": 100000,
+        "strategic_battle_record": 10,
+        "tactical_battle_record": 20,
+        "skill_summary_-_3": 10,
+        "skill_summary_-_2": 20,
+        "sugar": 8,
+        "polyester": 8,
+        "polyketon": 8,
+        "caster_chip": 5,
+        "intelligence_certificate": 525
+      },
+      "task_rewards": {
+        "intelligence_certificate": 1495
+      },
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {
+        "orundum": 2000,
+        "lmd": 30000,
+        "strategic_battle_record": 20,
+        "skill_summary_-_3": 20,
+        "crystalline_circuit": 4,
+        "white_horse_kohl": 4
+      }
+    },
+    "operator_modules": {
+      "first": [],
+      "second": [],
+      "new_operators": []
+    },
+    "operator_skins": {
+      "new": {
+        "kjera": "ingenious_servant"
+      },
+      "rerun": {
+        "weedy": "candy_cape",
+        "kafka": "cardboard_fairy",
+        "carnelian": "hohenlohe_chillysand",
+        "leonhardt": "hope_cruise",
+        "elysium": "snowy_echo",
+        "firewatch": "snowywatch"
+      },
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": [
+      "astesia",
+      "deepcolor",
+      "roberta",
+      "tequila"
+    ]
+  },
+  {
+    "event_name": "What the Firelight Casts",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2022-12-15",
+        "CN_end": "2022-12-29"
+      },
+      "event_banner": "CN_What_the_Firelight_Casts_banner"
+    },
+    "new_operators": [
+      "reed_the_flame_shadow",
+      "harmonie",
+      "puzzle"
+    ],
+    "headhunting": {
+      "banner": [
+        "reed_the_flame_shadow",
+        "harmonie",
+        "skyfire"
+      ],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 29,
+      "t3_drops": [
+        "oriron_cluster",
+        "sugar_pack",
+        "semi-synthetic_solvent"
+      ],
+      "store_totals": {
+        "headhunting_permit": 3,
+        "module_data_block": 2,
+        "bipolar_nanoflake": 5,
+        "keton_colloid": 10,
+        "polymerized_gel": 10,
+        "incandescent_alloy_block": 10,
+        "data_supplement_instrument": 10,
+        "data_supplement_stick": 60,
+        "polyester_pack": 15,
+        "manganese_ore": 10,
+        "lmd": 500000,
+        "strategic_battle_record": 50,
+        "tactical_battle_record": 100,
+        "frontline_battle_record": 240,
+        "skill_summary_-_3": 25,
+        "skill_summary_-_2": 50,
+        "orirock_cube": 25,
+        "sugar": 25,
+        "device": 25,
+        "vanguard_chip": 5,
+        "furniture_part": 2000
+      },
+      "task_rewards": {
+        "module_data_block": 2
+      },
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {}
+    },
+    "operator_modules": {
+      "first": [
+        "utage",
+        "akafuyu",
+        "hellagur",
+        "erato",
+        "toddifons",
+        "totter",
+        "rosa_poca"
+      ],
+      "second": [
+        "mizuki",
+        "archetto"
+      ],
+      "new_operators": [
+        "harmonie"
+      ]
+    },
+    "operator_skins": {
+      "new": {
+        "greyy_the_lightningbearer": "aftershow",
+        "erato": "untold_stories",
+        "goldenglow": "maiden_for_the_bright_night"
+      },
+      "rerun": {
+        "gravel": "modeling_night",
+        "arene": "casual",
+        "bibeak": "soft_wool"
+      },
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": [
+      "harmonie",
+      "may",
+      "mousse",
+      "saileach"
+    ]
+  },
+  {
+    "event_name": "Invitation to Wine Rerun",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2023-01-01",
+        "CN_end": "2023-01-11"
+      },
+      "event_banner": "CN_Invitation_to_Wine_Rerun_banner"
+    },
+    "new_operators": [],
+    "headhunting": {
+      "banner": [],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 28,
+      "t3_drops": [
+        "integrated_device",
+        "rma70_12",
+        "orirock_cluster"
+      ],
+      "store_totals": {
+        "headhunting_permit": 3,
+        "crystalline_electronic_unit": 1,
+        "oriron_block": 3,
+        "white_horse_kohl": 3,
+        "crystalline_circuit": 3,
+        "rma70_12": 5,
+        "compound_cutting_fluid": 5,
+        "lmd": 100000,
+        "strategic_battle_record": 10,
+        "tactical_battle_record": 20,
+        "frontline_battle_record": 40,
+        "skill_summary_-_3": 10,
+        "skill_summary_-_2": 20,
+        "polyester": 8,
+        "oriron": 8,
+        "polyketon": 8,
+        "sniper_chip": 5,
+        "intelligence_certificate": 600
+      },
+      "task_rewards": {
+        "intelligence_certificate": 1235
+      },
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {
+        "orundum": 2000,
+        "lmd": 30000,
+        "strategic_battle_record": 20,
+        "skill_summary_-_3": 20,
+        "cutting_fluid_solution": 4,
+        "refined_solvent": 4
+      }
+    },
+    "operator_modules": {
+      "first": [],
+      "second": [],
+      "new_operators": []
+    },
+    "operator_skins": {
+      "new": {
+        "kroos_the_keen_glint": "along_the_corridor"
+      },
+      "rerun": {
+        "aak": "doctor_of_faces",
+        "hung": "just_a_driver",
+        "nian": "unfettered_freedom"
+      },
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": []
+  },
+  {
+    "event_name": "Trials for Navigator #2",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2023-01-10",
+        "CN_end": "2023-01-17"
+      },
+      "event_banner": "CN_Trials_for_Navigator_2_banner"
+    },
+    "new_operators": [],
+    "headhunting": {
+      "banner": [],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 0,
+      "t3_drops": [],
+      "store_totals": {},
+      "task_rewards": {},
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {
+        "headhunting_permit": 1,
+        "lmd": 60000,
+        "module_data_integration_block": 1,
+        "module_data_block": 1,
+        "data_supplement_instrument": 15,
+        "data_supplement_stick": 5,
+        "polymerization_preparation": 1,
+        "nucleic_crystal_sinter": 1,
+        "refined_solvent": 1,
+        "manganese_trihydrate": 1,
+        "polymerized_gel": 1,
+        "loxic_kohl": 10,
+        "transmuted_salt": 10,
+        "strategic_battle_record": 15,
+        "tactical_battle_record": 20,
+        "skill_summary_-_3": 10,
+        "skill_summary_-_2": 20,
+        "furniture_part": 300
+      },
+      "intelligence_cert_store_additions": {}
+    },
+    "operator_modules": {
+      "first": [],
+      "second": [],
+      "new_operators": []
+    },
+    "operator_skins": {
+      "new": {
+        "blacknight": "fragrance_from_the_branches"
+      },
+      "rerun": {},
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": []
+  },
+  {
+    "event_name": "Where Vernal Winds Will Never Blow",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2023-01-17",
+        "CN_end": "2023-01-31"
+      },
+      "event_banner": "CN_Where_Vernal_Winds_Will_Never_Blow_banner"
+    },
+    "new_operators": [
+      "chongyue",
+      "lin",
+      "firewhistle",
+      "jieyun"
+    ],
+    "headhunting": {
+      "banner": [
+        "chongyue",
+        "lin",
+        "firewhistle"
+      ],
+      "recruitment": [
+        "rosa_poca",
+        "leonhardt",
+        "podenco"
+      ]
+    },
+    "rewards": {
+      "originite_prime": 29,
+      "t3_drops": [
+        "manganese_ore",
+        "aketon",
+        "crystalline_component"
+      ],
+      "store_totals": {
+        "headhunting_permit": 3,
+        "module_data_block": 2,
+        "d32_steel": 5,
+        "orirock_concentration": 10,
+        "grindstone_pentahydrate": 10,
+        "optimized_device": 10,
+        "data_supplement_instrument": 10,
+        "data_supplement_stick": 60,
+        "rma70_12": 15,
+        "oriron_cluster": 10,
+        "lmd": 500000,
+        "strategic_battle_record": 50,
+        "tactical_battle_record": 100,
+        "frontline_battle_record": 240,
+        "skill_summary_-_3": 25,
+        "skill_summary_-_2": 50,
+        "orirock_cube": 25,
+        "sugar": 25,
+        "polyketon": 25,
+        "sniper_chip": 5,
+        "furniture_part": 2000
+      },
+      "task_rewards": {
+        "module_data_block": 1
+      },
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {}
+    },
+    "operator_modules": {
+      "first": [
+        "amiya",
+        "tomimi",
+        "nightmare",
+        "qanipalaat",
+        "haze",
+        "absinthe",
+        "ceobe",
+        "eyjafjalla"
+      ],
+      "second": [
+        "saria",
+        "lumen"
+      ],
+      "new_operators": [
+        "jieyun"
+      ]
+    },
+    "operator_skins": {
+      "new": {
+        "mulberry": "reflection_that_of_the_moons",
+        "cantabile": "illumination_that_of_daylights",
+        "ling": "it_does_wash_the_strings"
+      },
+      "rerun": {
+        "dusk": "everything_is_a_miracle",
+        "mr._nothing": "pale_rising_moon",
+        "feater": "gourmet"
+      },
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": []
+  },
+  {
+    "event_name": "A Death in Chunfen",
+    "event_data": {
+      "event_duration": {
+        "start": null,
+        "end": null,
+        "CN_start": "2023-02-14",
+        "CN_end": "2023-02-21"
+      },
+      "event_banner": "CN_A_Death_in_Chunfen_banner"
+    },
+    "new_operators": [
+      "qiubai",
+      "wind_chimes"
+    ],
+    "headhunting": {
+      "banner": [
+        "qiubai",
+        "wind_chimes",
+        "hung"
+      ],
+      "recruitment": []
+    },
+    "rewards": {
+      "originite_prime": 18,
+      "t3_drops": [],
+      "store_totals": {
+        "information_fragment": 6,
+        "module_data_block": 2,
+        "data_supplement_instrument": 8,
+        "data_supplement_stick": 40,
+        "bipolar_nanoflake": 1,
+        "chip_catalyst": 1,
+        "transmuted_salt_agglomerate": 2,
+        "aketon": 4,
+        "semi-synthetic_solvent": 4,
+        "lmd": 20000,
+        "strategic_battle_record": 5,
+        "tactical_battle_record": 10,
+        "skill_summary_-_3": 5,
+        "skill_summary_-_2": 10,
+        "pure_gold": 20,
+        "device": 5,
+        "recruitment_permit": 5,
+        "furniture_part": 100
+      },
+      "task_rewards": {},
+      "seasonal_store_totals": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {},
+      "intelligence_cert_store_additions": {}
+    },
+    "operator_modules": {
+      "first": [],
+      "second": [],
+      "new_operators": []
+    },
+    "operator_skins": {
+      "new": {
+        "deepcolor": "melodic_portrayal",
+        "mousse": "campfire_cooking_smoke",
+        "proviso": "high_autumn",
+        "poz\u00ebmka": "snowy_plains_in_words",
+        "manticore": "under_a_veil"
+      },
+      "rerun": {
+        "waai_fu": "wild_flower_of_street",
+        "ceobe": "unfettered"
+      },
+      "fashion_review": {},
+      "permanent_store_additions": {},
+      "milestone_totals": {}
+    },
+    "operator_records_paradox_simulations": [
+      "blacknight",
+      "chiave",
+      "iris",
+      "quercus"
+    ]
+  }
+]

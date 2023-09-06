@@ -18,6 +18,10 @@
     "20051": "Agent",
     "20561": "Chain-Healer",
     "20841": "Crusher",
+    "24186": "Sentinel-Protector",
+    "26191": "Ritualist",
+    "27291": "hunter",
+    "27296": "shotprotector",
     "5041": "Marksman",
     "5046": "Splash-Caster",
     "5051": "Lord",
@@ -53,6 +57,6 @@
     "8076": "Arts-Protector",
     "8441": "Besieger",
     "8476": "Bard",
-    "8726": "Sacrificial-Specialist",
+    "8726": "Geek",
     "9111": "Chain-Caster"
 }

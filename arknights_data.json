@@ -15,6 +15,11 @@
             "name": "Caster Chip",
             "tier": 3
         },
+        "caster_chip_pack": {
+            "img_path": "MTL_ASC_CST2",
+            "name": "Caster Chip Pack",
+            "tier": 4
+        },
         "chip_catalyst": {
             "img_path": "MTL_ASC_DI",
             "name": "Chip Catalyst",
@@ -75,6 +80,11 @@
             "name": "Defender Chip",
             "tier": 3
         },
+        "defender_chip_pack": {
+            "img_path": "MTL_ASC_TNK2",
+            "name": "Defender Chip Pack",
+            "tier": 4
+        },
         "device": {
             "img_path": "MTL_SL_BOSS2",
             "name": "Device",
@@ -114,6 +124,11 @@
             "img_path": "MTL_ASC_GRD1",
             "name": "Guard Chip",
             "tier": 3
+        },
+        "guard_chip_pack": {
+            "img_path": "MTL_ASC_GRD2",
+            "name": "Guard Chip Pack",
+            "tier": 4
         },
         "headhunting_permit": {
             "img_path": "TKT_GACHA",
@@ -175,14 +190,19 @@
             "name": "Medic Chip",
             "tier": 3
         },
+        "medic_chip_pack": {
+            "img_path": "MTL_ASC_MED2",
+            "name": "Medic Chip Pack",
+            "tier": 4
+        },
         "module_data_block": {
             "img_path": "mod_unlock_token",
             "name": "Module Data Block",
             "tier": 5
         },
-        "module_data_integration_block": {
+        "integrated_module_data_chunk": {
             "img_path": "itempack_mod_4",
-            "name": "Module Data Integration Block",
+            "name": "Integrated Module Data Chunk",
             "tier": 5
         },
         "nucleic_crystal_sinter": {
@@ -365,10 +385,20 @@
             "name": "Sniper Chip",
             "tier": 3
         },
+        "sniper_chip_pack": {
+            "img_path": "MTL_ASC_SNP2",
+            "name": "Sniper Chip Pack",
+            "tier": 4
+        },
         "specialist_chip": {
             "img_path": "MTL_ASC_SPC1",
             "name": "Specialist Chip",
             "tier": 3
+        },
+        "specialist_chip_pack": {
+            "img_path": "MTL_ASC_SPC2",
+            "name": "Specialist Chip Pack",
+            "tier": 4
         },
         "strategic_battle_record": {
             "img_path": "sprite_exp_card_t3",
@@ -400,6 +430,11 @@
             "name": "Supporter Chip",
             "tier": 3
         },
+        "supporter_chip_pack": {
+            "img_path": "MTL_ASC_SUP2",
+            "name": "Supporter Chip Pack",
+            "tier": 4
+        },
         "tactical_battle_record": {
             "img_path": "sprite_exp_card_t4",
             "name": "Tactical Battle Record",
@@ -419,6 +454,11 @@
             "img_path": "MTL_ASC_PIO1",
             "name": "Vanguard Chip",
             "tier": 3
+        },
+        "vanguard_chip_pack": {
+            "img_path": "MTL_ASC_PIO2",
+            "name": "Vanguard Chip Pack",
+            "tier": 4
         },
         "white_horse_kohl": {
             "img_path": "MTL_SL_ALCOHOL2",
@@ -472,6 +512,14 @@
             "class": "Guard",
             "icon": "avatars/char_475_akafyu",
             "name": "Akafuyu",
+            "rarity": 5,
+            "skins": []
+        },
+        "almond": {
+            "branch": "Hookmaster",
+            "class": "Specialist",
+            "icon": "avatars/char_4105_almond",
+            "name": "Almond",
             "rarity": 5,
             "skins": []
         },
@@ -731,6 +779,14 @@
             "rarity": 5,
             "skins": []
         },
+        "bryophyta": {
+            "branch": "Instructor",
+            "class": "Guard",
+            "icon": "avatars/char_4106_bryota",
+            "name": "Bryophyta",
+            "rarity": 5,
+            "skins": []
+        },
         "bubble": {
             "branch": "Protector",
             "class": "Defender",
@@ -856,6 +912,14 @@
             "class": "Specialist",
             "icon": "avatars/char_173_slchan",
             "name": "Cliffheart",
+            "rarity": 5,
+            "skins": []
+        },
+        "coldshot": {
+            "branch": "hunter",
+            "class": "Sniper",
+            "icon": "avatars/char_4104_coldst",
+            "name": "Coldshot",
             "rarity": 5,
             "skins": []
         },
@@ -1043,6 +1107,14 @@
             "rarity": 5,
             "skins": []
         },
+        "executor_the_ex_foedere": {
+            "branch": "Reaper-Guard",
+            "class": "Guard",
+            "icon": "avatars/char_1032_excu2",
+            "name": "Executor the Ex Foedere",
+            "rarity": 6,
+            "skins": []
+        },
         "exusiai": {
             "branch": "Marksman",
             "class": "Sniper",
@@ -1056,6 +1128,14 @@
             "class": "Caster",
             "icon": "avatars/char_180_amgoat",
             "name": "Eyjafjalla",
+            "rarity": 6,
+            "skins": []
+        },
+        "eyjafjalla_the_hv\u00edt_aska": {
+            "branch": "Wandering-Medic",
+            "class": "Medic",
+            "icon": "avatars/char_1016_agoat",
+            "name": "Eyjafjalla the Hv\u00edt Aska",
             "rarity": 6,
             "skins": []
         },
@@ -1145,6 +1225,14 @@
             "icon": "avatars/char_106_franka",
             "name": "Franka",
             "rarity": 5,
+            "skins": []
+        },
+        "friston-3": {
+            "branch": "Protector",
+            "class": "Defender",
+            "icon": "avatars/char_4093_frston",
+            "name": "Friston-3",
+            "rarity": 1,
             "skins": []
         },
         "frost": {
@@ -1411,6 +1499,14 @@
             "rarity": 6,
             "skins": []
         },
+        "insider": {
+            "branch": "Marksman",
+            "class": "Sniper",
+            "icon": "avatars/char_498_inside",
+            "name": "Insider",
+            "rarity": 5,
+            "skins": []
+        },
         "irene": {
             "branch": "Swordmaster",
             "class": "Guard",
@@ -1459,6 +1555,14 @@
             "rarity": 4,
             "skins": []
         },
+        "jessica_the_liberated": {
+            "branch": "shotprotector",
+            "class": "Defender",
+            "icon": "avatars/char_1034_jesca2",
+            "name": "Jessica the Liberated",
+            "rarity": 6,
+            "skins": []
+        },
         "jieyun": {
             "branch": "Artilleryman",
             "class": "Sniper",
@@ -1505,6 +1609,14 @@
             "icon": "avatars/char_478_kirara",
             "name": "Kirara",
             "rarity": 5,
+            "skins": []
+        },
+        "kirin_r_yato": {
+            "branch": "Executor",
+            "class": "Specialist",
+            "icon": "avatars/char_1029_yato2",
+            "name": "Kirin R Yato",
+            "rarity": 6,
             "skins": []
         },
         "kirin_x_yato": {
@@ -2003,6 +2115,14 @@
             "rarity": 4,
             "skins": []
         },
+        "poncirus": {
+            "branch": "Pioneer",
+            "class": "Vanguard",
+            "icon": "avatars/char_488_buildr",
+            "name": "Poncirus",
+            "rarity": 5,
+            "skins": []
+        },
         "popukar": {
             "branch": "Centurion",
             "class": "Guard",
@@ -2243,6 +2363,14 @@
             "rarity": 6,
             "skins": []
         },
+        "santalla": {
+            "branch": "Splash-Caster",
+            "class": "Caster",
+            "icon": "avatars/char_341_sntlla",
+            "name": "Santalla",
+            "rarity": 5,
+            "skins": []
+        },
         "saria": {
             "branch": "Guardian",
             "class": "Defender",
@@ -2443,6 +2571,14 @@
             "rarity": 3,
             "skins": []
         },
+        "spuria": {
+            "branch": "Geek",
+            "class": "Specialist",
+            "icon": "avatars/char_4015_spuria",
+            "name": "Spuria",
+            "rarity": 5,
+            "skins": []
+        },
         "stainless": {
             "branch": "Artificer",
             "class": "Supporter",
@@ -2497,6 +2633,14 @@
             "icon": "avatars/char_308_swire",
             "name": "Swire",
             "rarity": 5,
+            "skins": []
+        },
+        "swire_the_elegant_wit": {
+            "branch": "Merchant",
+            "class": "Specialist",
+            "icon": "avatars/char_1033_swire2",
+            "name": "Swire the Elegant Wit",
+            "rarity": 6,
             "skins": []
         },
         "tachanka": {
@@ -2595,6 +2739,14 @@
             "rarity": 5,
             "skins": []
         },
+        "tulip": {
+            "branch": "",
+            "class": "Vanguard",
+            "icon": "avatars/char_513_apionr",
+            "name": "Tulip",
+            "rarity": 5,
+            "skins": []
+        },
         "tuye": {
             "branch": "Medic",
             "class": "Medic",
@@ -2603,12 +2755,36 @@
             "rarity": 5,
             "skins": []
         },
+        "typhon": {
+            "branch": "Besieger",
+            "class": "Sniper",
+            "icon": "avatars/char_2012_typhon",
+            "name": "Typhon",
+            "rarity": 6,
+            "skins": []
+        },
+        "u-official": {
+            "branch": "Bard",
+            "class": "Supporter",
+            "icon": "avatars/char_4091_ulika",
+            "name": "U-Official",
+            "rarity": 1,
+            "skins": []
+        },
         "utage": {
             "branch": "Musha",
             "class": "Guard",
             "icon": "avatars/char_337_utage",
             "name": "Utage",
             "rarity": 4,
+            "skins": []
+        },
+        "valarqvin": {
+            "branch": "Ritualist",
+            "class": "Supporter",
+            "icon": "avatars/char_4102_threye",
+            "name": "Valarqvin",
+            "rarity": 5,
             "skins": []
         },
         "vanilla": {

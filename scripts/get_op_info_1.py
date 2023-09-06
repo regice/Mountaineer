@@ -22,22 +22,36 @@ for op in op_rows:
     op_rarity = int(op["data-rarity"])
     op_class = op["data-profession"]
     op_branch = op["data-profession-subclass-id"]
+
     # Make key for operator e.g. "Nearl the Radiant Knight" -> "nearl_the_radiant_knight"
     # Also replace ', (, and ) in operator names
     op_key = op_name.lower().replace(" ", "_").replace("'", "").replace("(", "").replace(")", "")
 
     # Only add new operators
     if op_key not in op_data["operators"].keys():
-        op_data["operators"][op_key] = {
-            "name": op_name,
-            "rarity": op_rarity,
-            "class": op_class,
-            "branch": op_branches[op_branch],
-            "skins": [],
-            "icon": ""
-        }
-
         print(f"New Operator: {op_name}")
+
+        # Until GamePress fixes Tulip's row in the Interactive Operator List
+        if op_key == "tulip":
+            op_data["operators"][op_key] = {
+                "name": op_name,
+                "rarity": op_rarity,
+                "class": op_class,
+                "branch": "",
+                "skins": [],
+                "icon": ""
+            }
+        else:
+            op_data["operators"][op_key] = {
+                "name": op_name,
+                "rarity": op_rarity,
+                "class": op_class,
+                "branch": op_branches[op_branch],
+                "skins": [],
+                "icon": ""
+            }
+
+        print(f"Successfully added New Operator: {op_name}")
 
 with open("output/arknights_data.json", "w") as arknights_data_json:
     json.dump(op_data, arknights_data_json, indent=4, sort_keys=True)
